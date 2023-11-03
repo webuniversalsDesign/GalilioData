@@ -63,13 +63,13 @@ const Data_Appending = () => {
 
                
 
-                    <p className='content mb-4 mb-xl-5'>
+                    <p className='content mb-4 mb-xl-5 font-resp'>
                     In the modern era of fierce competition and business rivalry, having complete know how about the customers
                      is essential for any organization to reduce the gap between marketing and sales effectiveness. Customer
                       data base if maintained effectively not only helps an organization to be in touch
                      with the customers but also helps in updating the customers on the latest offers, products and services.</p>
 
-                     <p className="content ">Even a slight gap in the contact data is enough to bring a downward slide in the leads
+                     <p className="content font-resp">Even a slight gap in the contact data is enough to bring a downward slide in the leads
                       and sales in your current business. For this, restricting only with data verification is not adequate,
                       organization needs to enhance or upgrade it by cleansing the current data base with erroneous and outdated data.</p>
               </div>
@@ -102,21 +102,21 @@ const Data_Appending = () => {
 
             <div className="row pt-2">
 
-                 <div className="col-lg-6">
+                 <div className="col-lg-6 font-resp">
                 <b>Enhance</b>  – Use additional demographic and lifestyle information to gain a better insight into consumer behavior 
                  and ensure your communication is relevant. Match – Accurately identify and discard duplicate records within a
                   single file, or between two to avoid mailing an individual multiple times with the same offer. 
                  Mailing an existing customer, or an individual who has specifically requested not to be contacted by your organization.
             </div>
 
-            <div className="col-lg-6">
+            <div className="col-lg-6 font-resp">
             <p><b>Validate</b> – Validate whether if individual is present at particular address and telephone contact
              details are correct to ensure that your direct marketing reaches the expected recipient. Suppress
               – Identify and remove individuals that cannot or will not respond as a result of them moving house, passing away, or
              registering with one of the preference services. This curtails wasted mailing costs and helps to avoid consumer annoyance.</p>
             </div>
 
-            <div className="col-12">
+            <div className="col-12 font-resp">
             <p><b>Clean</b>  – Verify and updating of: Name, address and date of birth details using files such as the Post Code Address File to assure
  that personal information is accurate, and that marketing communications are deliverable.</p>
             </div>

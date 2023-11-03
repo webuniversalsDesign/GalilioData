@@ -64,13 +64,13 @@ const Web_Design = () => {
 
                
 
-                    <p className='content mb-4 mb-xl-5'>
+                    <p className='content mb-4 mb-xl-5 font-resp'>
                     Galileo Data offer only state of the art, cutting edge technology and are for all time creating new and original ways 
                     to make our customers’ experience better. If you are searching for a trusted reputable Web Design corporation to grip 
                     all of your online business wants then look no further. We recommend complete solutions for all industries 
                     and can meet the demands of any business, and have been ranked one of the most excellent Web Design Companies to do business.</p>
 
-                      <p className="content mb-4">
+                      <p className="content mb-4 font-resp">
                       We are a premium web design and development company that offers a broad range of solutions for both small to large companies globally. We dedicated in rich interactive experiences in Web, designing the long time.
 We are a close team of creative’s, web designers & web developers who work jointly to create beautiful, engaging digital experiences. We take arrogance in delivering only the most excellent.
                       </p>

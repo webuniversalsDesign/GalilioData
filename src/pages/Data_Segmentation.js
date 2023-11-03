@@ -65,12 +65,12 @@ const Data_Segmentation = () => {
 
                
 
-                    <p className='content mb-4 mb-xl-5'>
+                    <p className='content mb-4 mb-xl-5 font-resp'>
                     Plan more efficient and rewarding marketing strategies. At Galileo Data, we offer you smart data
                      segmentation services which is the process of distributing large set of customers into groups or categories based on their
                      similarities in specific aspects aligned to marketing such as gender, age groups, income levels, demographics etc..</p>
 
-                     <p className="content">Segmenting large customer database helps companies connect with their customers in
+                     <p className="content font-resp">Segmenting large customer database helps companies connect with their customers in
                       the best possible way. Companies, which employ data segmentation techniques
                       can allocate their resources more optimally and plan more systematic and rewarding marketing strategies.</p>
               </div>
@@ -106,21 +106,21 @@ const Data_Segmentation = () => {
                  <div className="col-lg-6">
 
 
- <p style={{textAlign:"justify"}}>Enhance – Use additional demographic and lifestyle information to gain a better insight into consumer
+ <p style={{textAlign:"justify"}} className="font-resp">Enhance – Use additional demographic and lifestyle information to gain a better insight into consumer
                  behavior and ensure your communication is relevant. Match – Accurately identify and discard duplicate
                   records within a single file, or between two to avoid mailing an individual multiple times with the same offer.
                  Mailing an existing customer, or an individual who has specifically requested not to be contacted by your organization.</p>
             </div>
 
             <div className="col-lg-6">
-            <p style={{textAlign:"justify"}}>Validate – Validate whether if individual is present at particular address and telephone contact 
+            <p style={{textAlign:"justify"}} className="font-resp">Validate – Validate whether if individual is present at particular address and telephone contact 
             details are correct to ensure that your direct marketing reaches the expected recipient. Suppress –
              Identify and remove individuals that cannot or will not respond as a result of them moving house, passing away, or registering with one of
              the preference services. This curtails wasted mailing costs and helps to avoid consumer annoyance.</p>
             </div>
 
             <div className="col-lg-12 pt-3">
-            <p>Enhances chances of success for marketing campaigns targeted at a particular group – 
+            <p className="font-resp">Enhances chances of success for marketing campaigns targeted at a particular group – 
 Personalized touch is added to the way customers are approached.
  – More customized campaigns are planned. – Deepens relationship with customers and results in higher conversion ratio</p>
             </div>

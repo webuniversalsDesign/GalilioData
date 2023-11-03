@@ -64,24 +64,24 @@ const Data_Verification = () => {
 
                
 
-                    <p className='content mb-4 mb-xl-5'>
+                    <p className='content mb-4 mb-xl-5 font-resp'>
                     Having access to state of the art technology and tools, our experts scrutinize your dataset and
                      implement proven methodology to authenticate your records and ensure that they are accurate, consistent and up-to-date.</p>
 
                      <h6 className="mb-4">Our process when you Outsource Data Validation Services to us We go the extra mile to help you
                       significantly improve the quality of your data. Let’s have a quick glimpse at our quality control process:</h6>
 
-                      <p className="content mb-4">
+                      <p className="content mb-4 font-resp">
                       We employ automated as well as manual processes to examine and
                        verify your data against internal as well as external sources of information.
                       </p>
 
-                      <p className="content mb-4">Our experts identify gaps, redundancies and inaccuracies
+                      <p className="content mb-4 font-resp">Our experts identify gaps, redundancies and inaccuracies
                        in the database. Further, they review, validate, cleanse and normalize your database
                         while ensuring that it is accurate and updated. – With in-depth research, we improve the
                        quality of your data and cross-check the entries across all the available sources, online as well as offline.</p>
 
-                       <p className="content mb-4">Through our data verification and validation checks,
+                       <p className="content mb-4 font-resp">Through our data verification and validation checks,
                         we make sure that your records are current and correct to the last detail.</p>
               </div>
             </div>

@@ -65,16 +65,16 @@ const Biotech_And_Pharmaceutical = () => {
               
                 <ul className='single-list-inner style-check style-check mb-3 pt-5'>
 
-                          <li className="pt-3">
+                          <li className="pt-3 font-resp">
                             <FaCheckCircle /> Galileo Data offers the most comprehensive and complete lists of Pharmaceutical & Biotechnology Executive Contact Databases available on the market.
                           </li>
 
-                          <li className="pt-3">
+                          <li className="pt-3 font-resp">
                             <FaCheckCircle /> Contrary to list brokers and other list compilers, Galileo Data offers its clients the opportunity to acquire databases by delivering the actual 
                             databases, allowing companies and individuals to use the data for email marketing, direct mailings, and telephone lead generation.
                           </li>
 
-                          <li className="pt-3"> <FaCheckCircle /> Developed in cooperation with leading Pharmaceutical Industry Marketing Executives, Galileo Data 
+                          <li className="pt-3 font-resp"> <FaCheckCircle /> Developed in cooperation with leading Pharmaceutical Industry Marketing Executives, Galileo Data 
                             is the only list company offering full contact information on key executive contacts of the pharmaceutical industry, and allowing business 
                             to business marketers to use a multi-channel database by tapping in on email marketing, direct mail and telephone.
                           </li>
@@ -87,7 +87,7 @@ const Biotech_And_Pharmaceutical = () => {
                       <div className='col-md-12 mt-5'>
                         <ul className='single-list-inner style-check style-check mb-3'>
                         
-                         <li>
+                         <li className="font-resp">
                             <FaCheckCircle /> This list targets professionals and scientists at top pharmaceutical companies, biopharmaceutical 
                             companies, biotechnology companies, contract research organizations, government laboratories, university and hospital laboratories and medical 
                             centers, and instrument and system manufacturers, in order to maximize the results of your next marketing​

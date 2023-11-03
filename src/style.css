@@ -11,6 +11,10 @@
 
 @media only screen and (max-width : 600px) {
 
+    .contact-page-inner-2{
+padding: 30px;
+    }
+
     .video_content{
         height: 250px;
         width: 100%;
@@ -53,6 +57,10 @@ color: #D75A5A;
 
 }
 
+.contact-page-inner-2{
+padding: 30px 100px;
+}
+
 .video_content{
     height: 600px;
     width: 100%;
@@ -64,16 +72,18 @@ color: white;
 }
 
     .breadcrumb-area {
-        padding: 222px 0 108px;
+        /* padding: 222px 0 108px; */
+        padding: 160px 0 50px;
+
 
     }
 
     .contact-inner-card{
-        height: 130px;
+        height: 100px;
         }
 
         .contact-inner-info p{
-            font-size: 12px;
+            font-size: 10px;
         }
 
 .col-build-5{
@@ -81,13 +91,21 @@ color: white;
 }
 }
 
+
+
 @media only screen and (min-width : 1400px){
 
+    .contact-page-inner-2{
+        padding: 30px 100px;
+
+    }
+
 .contact-inner-card{
-height: 115px;
+height: 105px;
 }
     .breadcrumb-area {
-        padding: 222px 0 108px;
+        /* padding: 222px 0 108px; */
+        padding: 160px 0 50px;
 
     }
 
@@ -138,6 +156,10 @@ height: 115px;
         background-color: black;
     }
 
+    .font-resp{
+        font-size: 14px;
+    }
+
     .vidoe-banner{
         position: absolute;
         width: 100%;
@@ -157,6 +179,7 @@ height: 115px;
 }
 @media only screen and (min-width : 1200px){
 
+   
 
     .video_content{
         height: 600px;
@@ -184,6 +207,10 @@ height: 115px;
         height: 600px;
         width: 70%;
         background-color: black;
+    }
+
+    .font-resp{
+        font-size: 18px;
     }
 
     .vidoe-banner{
@@ -227,8 +254,16 @@ position: relative;
 .contact-inner-img img{
 height: 80px;
 width: 300px;
-padding-right:15px ;
+/* padding-right:15px ; */
 border-radius: 10px;
+}
+
+.contact-page-inner-2{
+border-radius: 20px;
+}
+
+.contact-inner-info{
+    margin-left: 15px;
 }
 
 .contact-inner-card{
@@ -372,4 +407,12 @@ margin-top: 10px;
         width: 100%;
         height: auto;
         margin: 5px 0px ;
+}
+
+.auto-type{
+    color: #ee7e19 !important;
+}
+
+.typed-cursor {
+    color: #da751b !important;
 }

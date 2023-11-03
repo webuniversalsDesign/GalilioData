@@ -102,7 +102,7 @@ const Hospitality = () => {
                 
                     </div>
 
-                    <p className='content mb-4 mb-xl-5'>
+                    <p className='content mb-4 mb-xl-5 font-resp'>
                 The Hospitality Decision Makers business list has been meticulously researched and developed ensuring the quality of this business list is second to none. Continuously updated by a dedicated team of Tele-Researchers, 
                 the Hospitality Decision Makers list has an unbeatable 95% deliverability ensuring superior response rates.</p>
               </div>
@@ -134,14 +134,14 @@ const Hospitality = () => {
             </div>
 
             <div className="col-lg-6">
-<p>The hospitality industry is enormous and the marketing strategies vary from one type of service to another. The Hospitality Industry has traditionally been dependent on word-of-mouth strategy for promotions. Now, with advancements in technology and the increasing use of the internet all over the world, email marketing has proven to be a potent tool for business promotions within this industry. Galileo Data proves to be a one stop facilitator for providing comprehensive email lists while assisting in enhancing and enriching existing internal databases.</p>
+<p className="font-resp">The hospitality industry is enormous and the marketing strategies vary from one type of service to another. The Hospitality Industry has traditionally been dependent on word-of-mouth strategy for promotions. Now, with advancements in technology and the increasing use of the internet all over the world, email marketing has proven to be a potent tool for business promotions within this industry. Galileo Data proves to be a one stop facilitator for providing comprehensive email lists while assisting in enhancing and enriching existing internal databases.</p>
             </div>
         </div>
 
         <div className="row pt-5">
 
             <div className="col-lg-6">
-<p>Galileo Data’s Hospitality Industry Email List is sourced using lists of trade shows attendees, 
+<p className="font-resp">Galileo Data’s Hospitality Industry Email List is sourced using lists of trade shows attendees, 
 hospitality events, hospitality magazines subscriptions, hospitality based surveys, directories, etc.
  The Hospitality Email and Marketing Lists are categorized on the basis of Job Roles and Countries for
   convenience. Given the enormity of the Hospitality Sector, our quality team has put in their best

@@ -65,7 +65,7 @@ const Logistic_and_Distribution = () => {
            
 
                 <ul className='single-list-inner style-check style-check mb-3 pt-4'>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Over the past few years, companies in the distribution and logistics
                              industry are under constant pressure to meet greater customer expectations, improve 
                              return on assets, minimize operating costs, and promote operational excellence. This
@@ -73,7 +73,7 @@ const Logistic_and_Distribution = () => {
                                and performance of the overall economy.
                           </li>
                           <br/>                
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> A growing number of logistics service providers are 
                             leveraging mobility, telemetry, and analytics to drive operational
                              excellence. It is a common strategy to develop a 360 degree view of 
@@ -81,7 +81,7 @@ const Logistic_and_Distribution = () => {
                           </li>
                           <br/>                
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Logistics service providers follow an "asset-light" 
                             supply chain strategy where they own as few warehouses and trucks as 
                             possible. Strategic partnerships with individual truckers are the key 
@@ -90,7 +90,7 @@ const Logistic_and_Distribution = () => {
                             media and mobile deployment to build a community comprising of key stakeholders of the business.
                               
                           </li>           <br/> 
-                        <li>
+                        <li className="font-resp">
                             <FaCheckCircle /> It will improve the efficiency of the marketing 
                             campaigns for your Logistic and Distribution sector. It indirectly 
                             helps you to get more revenue and returns on your investments. It 
@@ -108,19 +108,19 @@ const Logistic_and_Distribution = () => {
 
 <div className="container pt-5 ">
     <h4>IMPORTANCE OF LOGISTICS SERVICES EMAIL LIST</h4>
-    <p>The Logistics Services Email List is a targeted database of the best logistics and supply chain professionals. 
+    <p className="font-resp">The Logistics Services Email List is a targeted database of the best logistics and supply chain professionals. 
     This list contains the names,    email addresses, and phone numbers of logistics managers, 
     decision-makers, executives, and more.</p>
 
-    <p>The logistics Services Email List is an essential resource that creates great opportunities 
+    <p className="font-resp">The logistics Services Email List is an essential resource that creates great opportunities 
     for growth and improved ROI. Our Logistics Services Mailing List contains contact details of companies
      and organizations engaged in logistics & transportation in a very competitive pricing environment.</p>
 
-     <p>Logistics Services Email Lists are to help you find the right prospect to influence and get them on your side. 
+     <p className="font-resp">Logistics Services Email Lists are to help you find the right prospect to influence and get them on your side. 
      It offers a high level of quality data that helps you reach the right people at the right time and helps grow your 
      business in an   organized manner. Logistics Service Mailing List helps direct more sales towards your company.</p>
 
-     <p>The logistics Services Email List is the most important part of the mailing strategy. If you want to
+     <p className="font-resp">The logistics Services Email List is the most important part of the mailing strategy. If you want to
       reach out to your logs services target customers then you must need the Logistics Services Mailing List.
        We provide a total wide range of logistics service email lists such as logistics
       service management, consulting, business processes, etc.</p>
@@ -128,18 +128,18 @@ const Logistic_and_Distribution = () => {
 
 <div className="container pt-5 pd-bottom-90">
     <h5>WHY SHOULD YOU PURCHASE OUR LOGISTICS SERVICES EMAIL LIST?</h5>
-    <p>Logistics Services Email List is one of the most important business resources which allows
+    <p className="font-resp">Logistics Services Email List is one of the most important business resources which allows
      you to reach out to almost all players in your trade, be it suppliers, manufacturers, 
     or those who are providing delivery services across various regions and locations.</p>
 
-    <p>Our mailing list will give you the tool to use as a direct source to communicate with your buyers and 
+    <p className="font-resp">Our mailing list will give you the tool to use as a direct source to communicate with your buyers and 
     suppliers in a timely manner. It helps you acquire new clients, boost sales and enhance growth.</p>
 
-    <p>Logistics services are the most profitable business sector. It offers a variety of opportunities for 
+    <p className="font-resp">Logistics services are the most profitable business sector. It offers a variety of opportunities for 
     your business whether offline or online. With our expertly curated list, you can build your presence, push your sales and
      increase ROI. We will help you generate leads by showcasing product /service offerings and growth rates.</p>
 
-     <p>We understand that a business can accomplish its goals only if it has the right resources, 
+     <p className="font-resp">We understand that a business can accomplish its goals only if it has the right resources, 
      and an email list is one of them. This is why we have been able to forge strong client relationships 
      by providing superior mailing solutions. Logistics companies are on the constant lookout for opportunities
       to enhance their operations which is

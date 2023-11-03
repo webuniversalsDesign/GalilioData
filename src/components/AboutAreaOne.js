@@ -45,7 +45,7 @@ const AboutAreaOne = () => {
               data-aos-duration='1500'
             >
               <div className='section-title mt-5 mt-lg-0'>
-                <h6 className='sub-title'>ABOUT US</h6>
+                <h6 className='sub-title font-resp'>ABOUT US</h6>
                 <h2 className='title'>
                 Expertise In Diverse  <span>Marketing</span> Verticals
 
@@ -60,7 +60,7 @@ const AboutAreaOne = () => {
                       </div>
                       <div className='details'>
                         <h5>Data-Driven Marketing Powerhouse</h5>
-                        <p>
+                        <p className="font-resp">
                         Galileo Data has more data sources than ever before, 
                         reach us to reach accurate data driven prospects within your budget
                         </p>
@@ -74,7 +74,7 @@ const AboutAreaOne = () => {
                       </div>
                       <div className='details'>
                         <h5>Seamless Management</h5>
-                        <p>
+                        <p className="font-resp">
                         We understand the need of the client and accordingly 
                         advise the best possible solution to help businesses grow
                         </p>
@@ -89,7 +89,7 @@ const AboutAreaOne = () => {
                       </div>
                       <div className='details'>
                         <h5>Quality Data Experts</h5>
-                        <p>
+                        <p className="font-resp">
                         Quality is our policy, so we’ll guarantee our business 
                         email data providing highest quality B2B data for email marketing
                         </p>
@@ -104,7 +104,7 @@ const AboutAreaOne = () => {
                       </div>
                       <div className='details'>
                         <h5>Industry Solutions</h5>
-                        <p>
+                        <p className="font-resp">
                         We provide the best industry trends covering various business & 
                         technology solutions tailored to any industry for all marketing needs
                         </p>

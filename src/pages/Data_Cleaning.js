@@ -63,7 +63,7 @@ const Data_Cleaning = () => {
 
                
 
-                    <p className='content mb-4 mb-xl-5'>
+                    <p className='content mb-4 mb-xl-5 font-resp'>
                     We facilitate our clients in taking strong and optimistic business decisions by cleansing and updating their
                      valuable databases regularly. At Galileo data, we employ latest techniques to clean, de-duplicate, standardize,
                       normalize, verify and validate critical data or information of your company. Also, our data cleansing and enrichment
@@ -103,14 +103,14 @@ const Data_Cleaning = () => {
             <div className="row pt-2">
 
                  <div className="col-lg-6">
-<p>Galileo Data offers all type of data cleansing, data analysis, data scrubbing, data enrichment and
+<p className="font-resp">Galileo Data offers all type of data cleansing, data analysis, data scrubbing, data enrichment and
  data verification services. Outsourcing data cleansing services to us in India ensures an accurate and
   up-to-date database, which yields the business results as per your desire. Our data cleansing service 
   covers several functions, depending on the type of data and client specific need.</p>
             </div>
 
             <div className="col-lg-6">
-            <p>Our clients are able to take the headache out of data cleansing problems by outsourcing data enrichment services to us.
+            <p className="font-resp">Our clients are able to take the headache out of data cleansing problems by outsourcing data enrichment services to us.
              A data cleansing / enrichment service bureau like DOI with its expertise 
             over the last several years can automate the process for greater quality, capacity, turnaround and value.</p>
             </div>

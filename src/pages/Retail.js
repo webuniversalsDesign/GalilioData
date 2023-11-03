@@ -84,13 +84,13 @@ const Retail = () => {
                 </h2>
 
 
-                  <p className='content mb-xl-3'>In a digital world where industries are bumping and the path to profitability is switching,
+                  <p className='content mb-xl-3 font-resp'>In a digital world where industries are bumping and the path to profitability is switching,
                    forcing retailers to fundamentally change their business models. It is an era of Retail where
                     digitization is ubiquitous, and most happening at scale. If you knew about which customers,
                      partners, vendors, and other types of revenue generators are most likely to associate with you
                    in the future, you could reduce the panic often made evident through expensive advertising.</p>
 
-                   <p>Galileo Data helps you find where the best supply chain deals are targeting and are generated.
+                   <p className="font-resp">Galileo Data helps you find where the best supply chain deals are targeting and are generated.
                     Trying to contact interfering decision makers, it helps you gain more information on retail industry.
                      Renewing the supply contracts you lost earlier it helps you to append and update the data. We have
                       invested in a rich set of solution offerings,  accelerators and assets to increase ROI and reduce
@@ -109,7 +109,7 @@ const Retail = () => {
          
                       <div className='col-md-4'>
                         <ul className='single-list-inner style-check style-check mb-3'>
-                        <li> <FaCheckCircle />How can we promote multiple brands or product lines under a single parent CPG company?
+                        <li className="font-resp"> <FaCheckCircle />How can we promote multiple brands or product lines under a single parent CPG company?
                           </li>
                         
                         </ul>
@@ -117,7 +117,7 @@ const Retail = () => {
 
                       <div className='col-md-4 '>
                         <ul className='single-list-inner style-check style-check mb-3'>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> How can we spot the best distribution channel and marketing solution for a niche product?
                           </li>
                           <br/>
@@ -127,7 +127,7 @@ const Retail = () => {
 
                       <div className='col-md-4 '>
                         <ul className='single-list-inner style-check style-check mb-3'>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> How can we identify primary decision-makers in a multistep retailing process?
                           </li>
                           <br/>
@@ -137,7 +137,7 @@ const Retail = () => {
 
                       <div className='col-md-4 '>
                         <ul className='single-list-inner style-check style-check mb-3'>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle />Want to perfect your go-to-market retail process?
                           </li>
                           <br/>
@@ -147,7 +147,7 @@ const Retail = () => {
 
                       <div className='col-md-4 '>
                         <ul className='single-list-inner style-check style-check mb-3'>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle />Speak to our CPG and retail industry marketing specialists.
                           </li>
                           <br/>
@@ -157,7 +157,7 @@ const Retail = () => {
 
                       <div className='col-md-4 '>
                         <ul className='single-list-inner style-check style-check mb-3'>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle />Know where to find high-value supply chain deals faster
                           </li>
                           <br/>
@@ -279,9 +279,9 @@ const Retail = () => {
 
     <ul className='single-list-inner style-check style-check mb-3'>
 
-<li> <FaCheckCircle /> Brick-and-mortar stores</li>
-<li> <FaCheckCircle /> Retail chains</li>
-<li> <FaCheckCircle /> Single-channel retailers</li>
+<li className="font-resp"> <FaCheckCircle /> Brick-and-mortar stores</li>
+<li className="font-resp"> <FaCheckCircle /> Retail chains</li>
+<li className="font-resp"> <FaCheckCircle /> Single-channel retailers</li>
 
 </ul>
     </div>
@@ -290,9 +290,9 @@ const Retail = () => {
 
     <ul className='single-list-inner style-check style-check mb-3'>
 
-<li> <FaCheckCircle /> High-end retailers</li>
-<li> <FaCheckCircle /> Online retailers</li>
-<li> <FaCheckCircle /> Big-box retailers</li>
+<li className="font-resp"> <FaCheckCircle /> High-end retailers</li>
+<li className="font-resp"> <FaCheckCircle /> Online retailers</li>
+<li className="font-resp"> <FaCheckCircle /> Big-box retailers</li>
 
 </ul>
     </div>
@@ -301,10 +301,10 @@ const Retail = () => {
 
 <ul className='single-list-inner style-check style-check mb-3'>
 
-<li> <FaCheckCircle /> Modern retail outlets</li>
+<li className="font-resp"> <FaCheckCircle /> Modern retail outlets</li>
 
-<li> <FaCheckCircle /> Master franchise</li>
-<li> <FaCheckCircle /> New Retail chains</li>
+<li className="font-resp"> <FaCheckCircle /> Master franchise</li>
+<li className="font-resp"> <FaCheckCircle /> New Retail chains</li>
 
 
 </ul>
@@ -313,7 +313,7 @@ const Retail = () => {
 <div className="col-lg-3">
 
 <ul className='single-list-inner style-check style-check mb-3'>
-<li> <FaCheckCircle /> E-commerce sellers</li>
+<li className="font-resp"> <FaCheckCircle /> E-commerce sellers</li>
 
 
 
@@ -326,13 +326,13 @@ const Retail = () => {
 
 
 
-<p>Make smarter marketing moves by understanding the length and breadth of your core retailer base.</p>
+<p className="font-resp">Make smarter marketing moves by understanding the length and breadth of your core retailer base.</p>
 
-<p>Modern retail is altogether a different ballgame than the old single-channel retail. But
+<p className="font-resp">Modern retail is altogether a different ballgame than the old single-channel retail. But
  we can help you ace the game by providing deep market intelligence on high-growth categories. Your CPG
  brand can initiate new retail partnerships by segmenting prospects based on growth potential.</p>
 
- <p>Get exclusive TAM insights to close more valuable deals in your preferred retail market segment.</p>
+ <p className="font-resp">Get exclusive TAM insights to close more valuable deals in your preferred retail market segment.</p>
 </div>
 
 
@@ -392,7 +392,7 @@ const Retail = () => {
                    Test Market Waters for Your CPG Brand with Our Marketing Services
                 </h5>
 
-                <p>Figure out who your ideal customers are and want kind of products they want using our data analytics support. 
+                <p className="font-resp">Figure out who your ideal customers are and want kind of products they want using our data analytics support. 
                 Our master database houses contacts of qualified leads looking for CPG firms you can engage directly.</p>
               
                 <div className='row '>

@@ -80,10 +80,10 @@ const Real_Estate = () => {
 
                 <h6 className="pt-4">Craft Highly Effective Marketing Plans Using Our Intent Insights</h6>
 
-                <p className='content mb-xl-3'>The real estate industry’s value chain has many moving parts,
+                <p className='content mb-xl-3 font-resp'>The real estate industry’s value chain has many moving parts,
                   and each holds immense potential for creating outstanding touchpoints.</p>
 
-                <p className='content mb-xl-3'>Whether you’re targeting CRE developers, real estate agents & brokers, property managers, or others, you need to increase brand interactions across channels to bring chief contacts to the top of the funnel.
+                <p className='content mb-xl-3 font-resp'>Whether you’re targeting CRE developers, real estate agents & brokers, property managers, or others, you need to increase brand interactions across channels to bring chief contacts to the top of the funnel.
                   So if you’re not making the most of custom data or digital marketing tools, it’s time you do.</p>
 
                 {/* <h5>Switch up your Galileo Data Inc. marketing by asking questions like:</h5> */}
@@ -171,11 +171,11 @@ const Real_Estate = () => {
                 </div>
 
 
-                <p>Once you’ve got the answers, you can craft and launch a well-rounded marketing plan.It’s time to get
+                <p className="font-resp">Once you’ve got the answers, you can craft and launch a well-rounded marketing plan.It’s time to get
                   out of the real estate limbo and start outperforming those longstanding competition. Speak to our
                   high-level strategists today.</p>
 
-                <p>Irrespective of which realty segment or vertical you’re based in – becoming a sales champion requires intent-rich prospect data.</p>
+                <p className="font-resp">Irrespective of which realty segment or vertical you’re based in – becoming a sales champion requires intent-rich prospect data.</p>
 
               </div>
             </div>
@@ -220,19 +220,19 @@ const Real_Estate = () => {
 
               <div className='col-md-4'>
                 <ul className='single-list-inner style-check style-check'>
-                  <li> <FaCheckCircle />Real Estate Agents and Brokers
+                  <li className="font-resp"> <FaCheckCircle />Real Estate Agents and Brokers
                   </li>
 
-                  <li> <FaCheckCircle />CRE Developers
+                  <li className="font-resp"> <FaCheckCircle />CRE Developers
                   </li>
 
-                  <li> <FaCheckCircle />Landowners
+                  <li className="font-resp"> <FaCheckCircle />Landowners
                   </li>
 
-                  <li> <FaCheckCircle />Property Managers
+                  <li className="font-resp"> <FaCheckCircle />Property Managers
                   </li>
 
-                  <li> <FaCheckCircle />Maintenance professionals
+                  <li className="font-resp"> <FaCheckCircle />Maintenance professionals
                   </li>
 
 
@@ -244,16 +244,16 @@ const Real_Estate = () => {
               <div className='col-md-4'>
 
                 <ul className='single-list-inner style-check style-check'>
-                  <li> <FaCheckCircle />Urban Planners
+                  <li className="font-resp"> <FaCheckCircle />Urban Planners
                   </li>
 
-                  <li> <FaCheckCircle />Asset Management Companies
+                  <li className="font-resp"> <FaCheckCircle />Asset Management Companies
                   </li>
 
-                  <li> <FaCheckCircle />Dwelling Operators
+                  <li className="font-resp"> <FaCheckCircle />Dwelling Operators
                   </li>
 
-                  <li> <FaCheckCircle />Construction Equipment Suppliers
+                  <li className="font-resp"> <FaCheckCircle />Construction Equipment Suppliers
                   </li>
                 </ul>
               </div>
@@ -261,22 +261,22 @@ const Real_Estate = () => {
               <div className='col-md-4'>
 
                 <ul className='single-list-inner style-check style-check'>
-                  <li> <FaCheckCircle />Apartment/Building Owners
+                  <li className="font-resp"> <FaCheckCircle />Apartment/Building Owners
                   </li>
 
-                  <li> <FaCheckCircle />Real Estate Inspectors
+                  <li className="font-resp"> <FaCheckCircle />Real Estate Inspectors
                   </li>
 
-                  <li> <FaCheckCircle />Furnishing Equipment Manufacturers
+                  <li className="font-resp"> <FaCheckCircle />Furnishing Equipment Manufacturers
                   </li>
 
-                  <li> <FaCheckCircle />Realty Builders and Contractors
+                  <li className="font-resp"> <FaCheckCircle />Realty Builders and Contractors
                   </li>
 
 
                 </ul>
               </div>
-              <p className="pt-3">The global real estate industry has always been an ocean of growth circuits. To ensure you’re making the most of the international opportunities and regional demand, leverage our behavioral TAM intelligence to attract and capture top-quality contacts.</p>
+              <p className="pt-3 font-resp">The global real estate industry has always been an ocean of growth circuits. To ensure you’re making the most of the international opportunities and regional demand, leverage our behavioral TAM intelligence to attract and capture top-quality contacts.</p>
 
 
             </div>
@@ -285,30 +285,30 @@ const Real_Estate = () => {
 
           <div className=" pd-bottom-90">
             <h5>Gain Business-ready TAM Intelligence on Top Realty Buyers Most Interested in a Buy-In</h5>
-            <p>There’s ample scope in the real estate industry and ancillary segments for creating,
+            <p className="font-resp">There’s ample scope in the real estate industry and ancillary segments for creating,
               capturing, and transferring greater value to every shareholder,
               provided you have access to comprehensive, end-to-end data on prospective partners.</p>
 
-            <p>We can deliver a persona-focused list of pre-qualified contacts straight into your CRM.
+            <p className="font-resp">We can deliver a persona-focused list of pre-qualified contacts straight into your CRM.
               To build a foolproof acquisition strategy, all you need to do is choose from the following set of criteria:</p>
 
             <div className='row '>
 
               <div className='col-md-4'>
                 <ul className='single-list-inner style-check style-check'>
-                  <li> <FaCheckCircle />Full Name
+                  <li className="font-resp"> <FaCheckCircle />Full Name
                   </li>
 
-                  <li> <FaCheckCircle />Company
+                  <li className="font-resp"> <FaCheckCircle />Company
                   </li>
 
-                  <li> <FaCheckCircle />First Name
+                  <li className="font-resp"> <FaCheckCircle />First Name
                   </li>
 
-                  <li> <FaCheckCircle />State
+                  <li className="font-resp"> <FaCheckCircle />State
                   </li>
 
-                  <li> <FaCheckCircle />Country
+                  <li className="font-resp"> <FaCheckCircle />Country
                   </li>
 
 
@@ -320,19 +320,19 @@ const Real_Estate = () => {
               <div className='col-md-4'>
 
                 <ul className='single-list-inner style-check style-check'>
-                  <li> <FaCheckCircle />NAICS Codes
+                  <li className="font-resp"> <FaCheckCircle />NAICS Codes
                   </li>
 
-                  <li> <FaCheckCircle />Contact Title
+                  <li className="font-resp"> <FaCheckCircle />Contact Title
                   </li>
 
-                  <li> <FaCheckCircle />Web Address
+                  <li className="font-resp"> <FaCheckCircle />Web Address
                   </li>
 
-                  <li> <FaCheckCircle />Phone Number
+                  <li className="font-resp"> <FaCheckCircle />Phone Number
                   </li>
 
-                  <li> <FaCheckCircle /> Employee Size
+                  <li className="font-resp"> <FaCheckCircle /> Employee Size
                   </li>
 
                 </ul>
@@ -341,22 +341,22 @@ const Real_Estate = () => {
               <div className='col-md-4'>
 
                 <ul className='single-list-inner style-check style-check'>
-                  <li> <FaCheckCircle />FAX Number
+                  <li className="font-resp"> <FaCheckCircle />FAX Number
                   </li>
 
-                  <li> <FaCheckCircle />Geographical Location
+                  <li className="font-resp"> <FaCheckCircle />Geographical Location
                   </li>
 
-                  <li> <FaCheckCircle />LinkedIn Address
+                  <li className="font-resp"> <FaCheckCircle />LinkedIn Address
                   </li>
 
-                  <li> <FaCheckCircle />ZIP Code
+                  <li className="font-resp"> <FaCheckCircle />ZIP Code
                   </li>
 
 
                 </ul>
               </div>
-              <p className="pt-3">Armed with such deep, segment-specific insights, you can develop
+              <p className="pt-3 font-resp">Armed with such deep, segment-specific insights, you can develop
                 unique perspectives and command an unfair share of the lead’s time.
                 Now send hyper-personalized messages and compelling propositions to enjoy dramatic ROIs.</p>
 
@@ -604,10 +604,10 @@ const Real_Estate = () => {
         <div className="row pt-4">
           <div className="col-lg-6">
             <ul className='single-list-inner style-check style-check'>
-              <li>  <FaCheckCircle /> Creating enriching value for every stakeholder</li>
-              <li>  <FaCheckCircle /> Understanding sector’s response to external factors</li>
-              <li>  <FaCheckCircle /> Establishing credibility using thought leadership</li>
-              <li>  <FaCheckCircle /> Generating sufficient top-quality leads</li>
+              <li className="font-resp">  <FaCheckCircle /> Creating enriching value for every stakeholder</li>
+              <li className="font-resp">  <FaCheckCircle /> Understanding sector’s response to external factors</li>
+              <li className="font-resp">  <FaCheckCircle /> Establishing credibility using thought leadership</li>
+              <li className="font-resp">  <FaCheckCircle /> Generating sufficient top-quality leads</li>
 
             </ul>
           </div>
@@ -615,9 +615,9 @@ const Real_Estate = () => {
           <div className="col-lg-6">
             <ul className='single-list-inner style-check style-check'>
 
-              <li>  <FaCheckCircle /> Finding the right digital tools for effective marketing</li>
-              <li>  <FaCheckCircle /> Attracting high-value clients and conversions</li>
-              <li>  <FaCheckCircle /> Supplying ethnographic data for precise targeting</li>
+              <li className="font-resp">  <FaCheckCircle /> Finding the right digital tools for effective marketing</li>
+              <li className="font-resp">  <FaCheckCircle /> Attracting high-value clients and conversions</li>
+              <li className="font-resp">  <FaCheckCircle /> Supplying ethnographic data for precise targeting</li>
 
             </ul>
           </div>

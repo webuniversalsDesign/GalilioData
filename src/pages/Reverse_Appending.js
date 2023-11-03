@@ -66,7 +66,7 @@ const Reverse_Appending = () => {
 
                
 
-                    <p className='content mb-4 mb-xl-5'>
+                    <p className='content mb-4 mb-xl-5 font-resp'>
                     Use email to locate name and address Business to Business Your existing email addresses database
                      will be used to provide additional information about the individuals who own these email addresses
                       – allowing you to further segment, target and contact them by additional means. Reverse Append takes
@@ -84,7 +84,7 @@ const Reverse_Appending = () => {
         </div>
       </div>
 
-      <div className='about-area pt-5 pd-bottom-120'>
+      <div className='about-area pd-bottom-120'>
         <div className='container'>
           <div className='row'>
            
@@ -98,7 +98,7 @@ const Reverse_Appending = () => {
                 {/* <h6 className='sub-title'>Reverse Appending</h6> */}
                      <h6 className="mb-4">CASS Certified Addresses</h6>
 
-                      <p className="content mb-4">
+                      <p className="content mb-4 font-resp">
                       CASS Certified Addresses Reverse Append uses a CASS certified database and a proprietary addresses
                        standardization technology. This platform ensures that you receive only the highest quality addresses
                         from the reverse append process. Based on an industry leading matching technology, our standardization
@@ -110,7 +110,7 @@ const Reverse_Appending = () => {
 
                      <h6 className="mb-4 pt-3">Lower Postal Costs</h6>
 
-                     <p className="content"> Standardization lowers your postal costs by making sure your addresses conform 
+                     <p className="content font-resp"> Standardization lowers your postal costs by making sure your addresses conform 
                      to USPS requirements for address format and content. Reverse Append adds missing address information; 
                      standardizes city names and state abbreviations, corrects misspelled address elements and converts addresses into a USPS
                       readable format. The result is that provide to you a high quality, deliverable database ready to mail.</p>

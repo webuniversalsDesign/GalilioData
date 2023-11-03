@@ -29,7 +29,7 @@ const WorkProcessOne = () => {
                 </div>
                 <div className='details'>
                   <h5 className='mb-3'>Social Media Marketing</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   We use a number of SEO/SEM and SMM techniques to assist you to build a strong and unparalleled reputation online...
                   </p>
                 </div>
@@ -45,7 +45,7 @@ const WorkProcessOne = () => {
                 </div>
                 <div className='details'>
                   <h5 className='mb-3'>Web Design</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   We offer state of the art, cutting edge technology by creating new and unique website designs by top experts....
                   </p>
                 </div>
@@ -61,7 +61,7 @@ const WorkProcessOne = () => {
                 </div>
                 <div className='details'>
                   <h5 className='mb-3'>PPC (Pay Per Click)</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   We help online advertisers accrue low costs when users click their ads on any advertising channel...
                   </p>
                 </div>

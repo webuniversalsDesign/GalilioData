@@ -66,15 +66,15 @@ const Manufacturing = () => {
                
               
                    <ul className='single-list-inner style-check style-check mb-3 pt-4'>
-                   <li> <FaCheckCircle /> With Manufacturing Industry Mailing List, you will be able to select the best Manufacturing industry
+                   <li className="font-resp"> <FaCheckCircle /> With Manufacturing Industry Mailing List, you will be able to select the best Manufacturing industry
                     leads for your needs based on geography, practice type, practice size and more.</li>
                    <br/>
-                   <li> <FaCheckCircle />By targeting the managers and executives, within the
+                   <li className="font-resp"> <FaCheckCircle />By targeting the managers and executives, within the
                     industries of interest, you'll be able to effectively and efficiently
                      close sales and boost profits.</li>
                      <br/>
                    
-                   <li> <FaCheckCircle />Our Manufacturing Industry directory is detailed 
+                   <li className="font-resp"> <FaCheckCircle />Our Manufacturing Industry directory is detailed 
                    and comprehensive, email and tele-verified, permission based, accurate and 
                    up-to-date and developed with utmost precision and adherence to client business needs.</li>
 
@@ -90,22 +90,22 @@ const Manufacturing = () => {
             <div className="col-lg-5">
             <ul className='single-list-inner style-check style-check mb-3'>
 
-            <li> <FaCheckCircle />Tire Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle />Tire Manufacturers Email List</li>
             
-            <li> <FaCheckCircle />Electronics Products Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle />Electronics Products Manufacturers Email List</li>
 
-            <li> <FaCheckCircle /> Transportation Equipment Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle /> Transportation Equipment Manufacturers Email List</li>
 
-            <li> <FaCheckCircle /> Rubber & Plastics Items Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle /> Rubber & Plastics Items Manufacturers Email List</li>
 
-            <li> <FaCheckCircle /> Printing items Manufacturers Email List</li>
-            <li> <FaCheckCircle />Leather Manufacturers Email List</li>
-            <li> <FaCheckCircle />Steel Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle /> Printing items Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle />Leather Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle />Steel Manufacturers Email List</li>
 
-            <li> <FaCheckCircle />Furniture Manufacturers Email List</li>
-            <li> <FaCheckCircle /> Electrical products Manufacturers Email List</li>
-            <li> <FaCheckCircle />Aerospace Equipment Manufacturers Email List</li>
-            <li> <FaCheckCircle />Construction Material Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle />Furniture Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle /> Electrical products Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle />Aerospace Equipment Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle />Construction Material Manufacturers Email List</li>
 
 </ul>
             </div>
@@ -113,23 +113,23 @@ const Manufacturing = () => {
             <div className="col-lg-7">
             <ul className='single-list-inner style-check style-check mb-3'>
 
-            <li> <FaCheckCircle /> Semiconductor Manufacturers Mailing List</li>
+            <li className="font-resp"> <FaCheckCircle /> Semiconductor Manufacturers Mailing List</li>
 
-            <li> <FaCheckCircle />Aerospace Equipment Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle />Aerospace Equipment Manufacturers Email List</li>
 
-            <li> <FaCheckCircle />Vehicles Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle />Vehicles Manufacturers Email List</li>
 
-            <li> <FaCheckCircle />Paper Products Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle />Paper Products Manufacturers Email List</li>
 
-            <li> <FaCheckCircle />Textile & Apparel Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle />Textile & Apparel Manufacturers Email List</li>
 
-            <li> <FaCheckCircle />Healthcare Products/ Equipment Manufacturers Email List</li>
-            <li> <FaCheckCircle />Chemical Products Manufacturers Email List</li>
-            <li> <FaCheckCircle /> Technology Products Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle />Healthcare Products/ Equipment Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle />Chemical Products Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle /> Technology Products Manufacturers Email List</li>
 
-            <li> <FaCheckCircle />Agriculture items Manufacturers Email List</li>
-            <li> <FaCheckCircle />PrintinaGlass Manufacturers Email Lisg items Manufacturers Email List</li>
-            <li> <FaCheckCircle />Primary Metal Industries Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle />Agriculture items Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle />PrintinaGlass Manufacturers Email Lisg items Manufacturers Email List</li>
+            <li className="font-resp"> <FaCheckCircle />Primary Metal Industries Manufacturers Email List</li>
 
             </ul>
             </div>

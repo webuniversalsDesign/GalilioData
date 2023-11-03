@@ -67,10 +67,10 @@ const Travel_and_Tourism = () => {
                 <h4 className="pt-4">Understand the expectations and purchasing behaviors of travel resellers to target precisely</h4>
                 <h5 className="pt-2">Receive Dedicated Prospecting Support to Achieve Scalable Growth</h5>
 
-                <p className='content mb-xl-3'>The tourism industry is widely dispersed with a number of independent travel distributors.
+                <p className='content mb-xl-3 font-resp'>The tourism industry is widely dispersed with a number of independent travel distributors.
                  With such a diverse web of distribution channels, getting a competitive advantage can take time.</p>
 
-                 <p className="content mb-xl-3">Reduce your marketing efforts by half using our well-defined customer bases.
+                 <p className="content mb-xl-3 font-resp">Reduce your marketing efforts by half using our well-defined customer bases.
                   Now leave the guesswork behind and trust our verified
                   contacts to identify, engage, and convert prospective customers using the hawk-eyed TAM approach.</p>
 
@@ -145,7 +145,7 @@ const Travel_and_Tourism = () => {
 
                 </div>
             </div>
-            <p style={{textAlign:"justify"}} className="pt-3">Targeted marketing begins when you have 
+            <p style={{textAlign:"justify"}} className="pt-3 font-resp">Targeted marketing begins when you have 
             the correct answers to your questions and concerns. You name your core personas, and we’ll deliver. Consult
              our travel and tourism industry marketing specialist to join the growth curve today.</p>
 
@@ -187,11 +187,11 @@ const Travel_and_Tourism = () => {
               
                 </ul>
               </div>
-              <p className="pt-3">Whatever your domestic market looks like, your international customer base will always operate differently.
+              <p className="pt-3 font-resp">Whatever your domestic market looks like, your international customer base will always operate differently.
                As aggregators in the tourism segment, 
               you need to stay on top of the changing travel trends and market dynamics across distribution channels..</p>
                
-               <p>Understanding the structure of the distribution system takes time, especially when you’re focused on a niche segment.
+               <p className="font-resp">Understanding the structure of the distribution system takes time, especially when you’re focused on a niche segment.
                 That is why you stand to gain a lot from our nurturing marketing strategy that
                 lets you access actionable TAM insights to deliver optimized content and engage/re-engage leads across multiple touchpoints.</p>
 
@@ -225,7 +225,7 @@ const Travel_and_Tourism = () => {
               </div>
 
         
-              <p className="pt-3">Even amidst the ever-growing industry challenges, 
+              <p className="pt-3 font-resp">Even amidst the ever-growing industry challenges, 
               find and bank on growth circuits without difficulty with our custom growth solutions.</p>
                
             </div>

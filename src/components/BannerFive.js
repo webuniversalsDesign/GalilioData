@@ -10,8 +10,27 @@ import 'swiper/css/effect-fade';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import { EffectFade, Autoplay } from 'swiper/modules';
+import Typed from 'typed.js';
+
 
 const BannerFive = () => {
+ // Create reference to store the DOM element containing the animation
+ const el = React.useRef(null);
+
+ React.useEffect(() => {
+  const typed = new Typed(el.current, {
+    strings: ['Traffic','Leads','Revenue','Marketshare','Brand', 'Profit',  ],
+    typeSpeed: 150,
+    backSpeed:150,
+    loop:true,
+  });
+
+  return () => {
+    // Destroy Typed instance during cleanup to stop animation
+    typed.destroy();
+  };
+}, []);
+
   return (
     <>
       {/* ================== BannerFive Start ==================*/}
@@ -21,7 +40,7 @@ const BannerFive = () => {
       >
         <div className='container'>
           <div className='row'>
-            <div className='col-lg-6 pb-xl-5 align-self-center'>
+            <div className='col-lg-8 pb-xl-5 align-self-center'>
               <div className='banner-inner pe-xl-4 pb-5'>
           
               {/* <Swiper
@@ -91,9 +110,7 @@ const BannerFive = () => {
                   data-aos-delay='250'
                   data-aos-duration='1500'
                 >
-                 Grow Your Profit <br/>
-                 Grow Your Marketshare
-                </h2>
+                 Grow Your   <span ref={el} className="auto-type"/> </h2>
                 <p
                   className='content pe-xl-4'
                   data-aos='fade-right'
@@ -138,7 +155,7 @@ const BannerFive = () => {
                 /> */}
               </div>
             </div>
-            <div className='col-lg-6 col-md-9 align-self-end'>
+            <div className='col-lg-4 col-md-9 align-self-end'>
               <div className='banner-thumb-2 mt-4 mt-lg-0'>
                 <div className='main-img-wrap'>
                   <img

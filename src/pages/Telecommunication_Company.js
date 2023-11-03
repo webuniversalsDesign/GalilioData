@@ -64,7 +64,7 @@ const Telecommunication_Company = () => {
                    
                 </h2>
 
-                <p className='content mb-xl-3'>We designed our comprehensive and customized Telecommunication Company Email
+                <p className='content mb-xl-3 font-resp'>We designed our comprehensive and customized Telecommunication Company Email
                  List especially for the target audience to expand their business market globally with high deliverability
                   and improved conversions rate. By using our custom-built Telecommunication Company Email List Mailing
                    Addresses you can analyze the development in your business market. Buy Telecommunication Company 
@@ -96,7 +96,7 @@ const Telecommunication_Company = () => {
 
                 </h3>
 
-                <p style={{textAlign:"justify"}} className="pt-4">In the current telecom industry, traditional operating models have been far from efficient.
+                <p style={{textAlign:"justify"}} className="pt-4 font-resp">In the current telecom industry, traditional operating models have been far from efficient.
                  The changing landscape demands differentiation at every stage. For successful telecom sales
                   amid the growing competition, you need to move beyond the one-size-fits-all marketing approach. So, start by
                  segmenting your target telecom buyers and move towards a more persona-based engagement. Here is how you can take the leap.</p>
@@ -107,35 +107,27 @@ const Telecommunication_Company = () => {
             <div className="row">
                   <div className="col-lg-6">
                     <ul className='single-list-inner style-check style-heading mb-3'>
-                      <li> <FaCheckCircle />Is there any way to reach out and build new partnership with OTT platforms?</li>
+                      <li className="font-resp"> <FaCheckCircle />Is there any way to reach out and build new partnership with OTT platforms?</li>
                     </ul>
                   </div>
 
                   <div className="col-lg-6">
                     <ul className='single-list-inner style-check style-heading mb-3'>
-                      <li> <FaCheckCircle />Can we target alliance benefits communication to content aggregators and creators?</li>
-
-                    </ul>
-                  </div>
-
-                  <div className="col-lg-6">
-                    <ul className='single-list-inner style-check style-heading mb-3'>
-                      <li> <FaCheckCircle />Who are the best media industry partners with whom we can build new revenues?</li>
+                      <li className="font-resp"> <FaCheckCircle />Can we target alliance benefits communication to content aggregators and creators?</li>
 
                     </ul>
                   </div>
 
                   <div className="col-lg-6">
                     <ul className='single-list-inner style-check style-heading mb-3'>
-                      <li> <FaCheckCircle />Could you help us with education industry enterprises who require business internet?</li>
+                      <li className="font-resp"> <FaCheckCircle />Who are the best media industry partners with whom we can build new revenues?</li>
 
                     </ul>
-
                   </div>
 
                   <div className="col-lg-6">
                     <ul className='single-list-inner style-check style-heading mb-3'>
-                      <li> <FaCheckCircle />Are there any high bandwidth and data intensive businesses whom we can target?</li>
+                      <li className="font-resp"> <FaCheckCircle />Could you help us with education industry enterprises who require business internet?</li>
 
                     </ul>
 
@@ -143,7 +135,7 @@ const Telecommunication_Company = () => {
 
                   <div className="col-lg-6">
                     <ul className='single-list-inner style-check style-heading mb-3'>
-                      <li> <FaCheckCircle />Do you IT enablers who want to make work from home seamless for employees?</li>
+                      <li className="font-resp"> <FaCheckCircle />Are there any high bandwidth and data intensive businesses whom we can target?</li>
 
                     </ul>
 
@@ -151,7 +143,7 @@ const Telecommunication_Company = () => {
 
                   <div className="col-lg-6">
                     <ul className='single-list-inner style-check style-heading mb-3'>
-                      <li> <FaCheckCircle />How can we assess if our telecom product bodes well in a specific market segment?</li>
+                      <li className="font-resp"> <FaCheckCircle />Do you IT enablers who want to make work from home seamless for employees?</li>
 
                     </ul>
 
@@ -159,7 +151,7 @@ const Telecommunication_Company = () => {
 
                   <div className="col-lg-6">
                     <ul className='single-list-inner style-check style-heading mb-3'>
-                      <li> <FaCheckCircle />How can we cut down inventory levels while maintaining sufficient product lines?</li>
+                      <li className="font-resp"> <FaCheckCircle />How can we assess if our telecom product bodes well in a specific market segment?</li>
 
                     </ul>
 
@@ -167,7 +159,7 @@ const Telecommunication_Company = () => {
 
                   <div className="col-lg-6">
                     <ul className='single-list-inner style-check style-heading mb-3'>
-                      <li> <FaCheckCircle />Can we secure niche business contacts for geo-targeting a particular location?</li>
+                      <li className="font-resp"> <FaCheckCircle />How can we cut down inventory levels while maintaining sufficient product lines?</li>
 
                     </ul>
 
@@ -175,7 +167,7 @@ const Telecommunication_Company = () => {
 
                   <div className="col-lg-6">
                     <ul className='single-list-inner style-check style-heading mb-3'>
-                      <li> <FaCheckCircle />Are there ready lists of telecom leads and partner networks we can harness?</li>
+                      <li className="font-resp"> <FaCheckCircle />Can we secure niche business contacts for geo-targeting a particular location?</li>
 
                     </ul>
 
@@ -183,7 +175,15 @@ const Telecommunication_Company = () => {
 
                   <div className="col-lg-6">
                     <ul className='single-list-inner style-check style-heading mb-3'>
-                      <li> <FaCheckCircle />How can we expand and tap into niche segments beyond domestic circuits?</li>
+                      <li className="font-resp"> <FaCheckCircle />Are there ready lists of telecom leads and partner networks we can harness?</li>
+
+                    </ul>
+
+                  </div>
+
+                  <div className="col-lg-6">
+                    <ul className='single-list-inner style-check style-heading mb-3'>
+                      <li className="font-resp"> <FaCheckCircle />How can we expand and tap into niche segments beyond domestic circuits?</li>
 
                     </ul>
 
@@ -201,16 +201,16 @@ const Telecommunication_Company = () => {
 
               <div className='col-md-6'>
                 <ul className='single-list-inner style-check style-heading'>
-                  <li> <FaCheckCircle />Corporates looking for reliable data networks
+                  <li className="font-resp"> <FaCheckCircle />Corporates looking for reliable data networks
                   </li>
 
-                  <li> <FaCheckCircle />Network service providers
+                  <li className="font-resp"> <FaCheckCircle />Network service providers
                   </li>
 
-                  <li> <FaCheckCircle />Local internet resellers interested in a partnership
+                  <li className="font-resp"> <FaCheckCircle />Local internet resellers interested in a partnership
                   </li>
 
-                  <li> <FaCheckCircle />Leased line resellers
+                  <li className="font-resp"> <FaCheckCircle />Leased line resellers
                   </li>
                 </ul>
               </div>
@@ -218,23 +218,23 @@ const Telecommunication_Company = () => {
               <div className='col-md-6'>
 
                 <ul className='single-list-inner style-check style-heading'>
-                <li> <FaCheckCircle />System integrators
+                <li className="font-resp"> <FaCheckCircle />System integrators
                   </li>
 
-                  <li> <FaCheckCircle />Enterprises that want software-based services
+                  <li className="font-resp"> <FaCheckCircle />Enterprises that want software-based services
                   </li>
 
-                  <li> <FaCheckCircle />Inbound and outbound roaming partners
+                  <li className="font-resp"> <FaCheckCircle />Inbound and outbound roaming partners
                   </li>
 
               
                 </ul>
               </div>
-              <p className="pt-3">Most end-consumers consider broadband as technology, not utility, which is why you
+              <p className="pt-3 font-resp">Most end-consumers consider broadband as technology, not utility, which is why you
                should be focusing on delivering value beyond the speed levels and variances to bag more retail deals. This means designing products
                aligned to consumer preferences and streamlining the buying process for retailers using smarter contracts..</p>
                
-               <p>In order to understand such pain points of your core personas at the grassroots levels, you also need
+               <p className="font-resp">In order to understand such pain points of your core personas at the grassroots levels, you also need
                 to take the TAM approach we can supply. Understand 
                critical growth pockets in your targeted verticals and marketplaces to transcend ordinary growth metrics.</p>
 
@@ -251,16 +251,16 @@ const Telecommunication_Company = () => {
 
               <div className='col-md-6'>
                 <ul className='single-list-inner style-check style-heading'>
-                  <li> <FaCheckCircle />Gain a 360-degree view of prospective telecom partners
+                  <li className="font-resp"> <FaCheckCircle />Gain a 360-degree view of prospective telecom partners
                   </li>
 
-                  <li> <FaCheckCircle />Understand demand drivers for a set of products
+                  <li className="font-resp"> <FaCheckCircle />Understand demand drivers for a set of products
                   </li>
 
-                  <li> <FaCheckCircle />Promote content optimized for targeted groups
+                  <li className="font-resp"> <FaCheckCircle />Promote content optimized for targeted groups
                   </li>
 
-                  <li> <FaCheckCircle />Gain actionable TAM intelligence for improved demand forecast
+                  <li className="font-resp"> <FaCheckCircle />Gain actionable TAM intelligence for improved demand forecast
                   </li>
                 </ul>
               </div>
@@ -268,19 +268,19 @@ const Telecommunication_Company = () => {
               <div className='col-md-6'>
 
                 <ul className='single-list-inner style-check style-heading'>
-                <li> <FaCheckCircle />Make use of top-quality market and leads analytics to make proactive product recommendations
+                <li className="font-resp"> <FaCheckCircle />Make use of top-quality market and leads analytics to make proactive product recommendations
                   </li>
 
-                  <li> <FaCheckCircle />Prioritize high-value supply chain networks and partners
+                  <li className="font-resp"> <FaCheckCircle />Prioritize high-value supply chain networks and partners
                   </li>
 
-                  <li> <FaCheckCircle />Identify target groups to deliver customized experiences
+                  <li className="font-resp"> <FaCheckCircle />Identify target groups to deliver customized experiences
                   </li>
 
               
                 </ul>
               </div>
-              <p className="pt-3">Whether you’re looking to expand your list of corporate clients and find 
+              <p className="pt-3 font-resp">Whether you’re looking to expand your list of corporate clients and find 
               partners across domestic borders for hardware products,
                our growth solutions work every time. Now take calculated risks and experiment to increase sales manifold.</p>
                
@@ -295,16 +295,16 @@ const Telecommunication_Company = () => {
 
               <div className='col-md-6'>
                 <ul className='single-list-inner style-check style-heading'>
-                  <li> <FaCheckCircle />Increasing commoditization of the data services
+                  <li className="font-resp"> <FaCheckCircle />Increasing commoditization of the data services
                   </li>
 
-                  <li> <FaCheckCircle />Simplifying complex commercial processes between providers to improve sales efficiency
+                  <li className="font-resp"> <FaCheckCircle />Simplifying complex commercial processes between providers to improve sales efficiency
                   </li>
 
-                  <li> <FaCheckCircle />Sluggishness in the supply chain operations owing to increased time-to-market
+                  <li className="font-resp"> <FaCheckCircle />Sluggishness in the supply chain operations owing to increased time-to-market
                   </li>
 
-                  <li> <FaCheckCircle />Growing competition from OTTs and rising customer dissatisfaction has put the industry on a downward curve
+                  <li className="font-resp"> <FaCheckCircle />Growing competition from OTTs and rising customer dissatisfaction has put the industry on a downward curve
                   </li>
                 </ul>
               </div>
@@ -312,13 +312,13 @@ const Telecommunication_Company = () => {
               <div className='col-md-6'>
 
                 <ul className='single-list-inner style-check style-heading'>
-                <li> <FaCheckCircle />Staying on top of the rapidly emerging demand channels and meeting them proactively
+                <li className="font-resp"> <FaCheckCircle />Staying on top of the rapidly emerging demand channels and meeting them proactively
                   </li>
 
-                  <li> <FaCheckCircle />Providing differentiated offerings in the wake of digital disruptions to attract, capture, and retain customers
+                  <li className="font-resp"> <FaCheckCircle />Providing differentiated offerings in the wake of digital disruptions to attract, capture, and retain customers
                   </li>
 
-                  <li> <FaCheckCircle />Declining revenue across the telecommunication industry owing to customer unrest and high churn rates
+                  <li className="font-resp"> <FaCheckCircle />Declining revenue across the telecommunication industry owing to customer unrest and high churn rates
                   </li>
 
               

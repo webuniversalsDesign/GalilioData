@@ -60,21 +60,21 @@ const Banking_And_Financial = () => {
               <div className='section-title mt-5 mt-lg-0'>
                 <h6 className='sub-title'>Automotive</h6>
                 <h2 className='title'>
-                Some of the importance of having a good database for the <span>banking and finance</span> sector are
+                Some of the importance of having a good database for the <span>Banking and Finance</span> sector are
 
                 </h2>
                 
               
                 <div className='col-md-12 mt-5'>
                         <ul className='single-list-inner style-check style-check mb-3'>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Wins the genuine trust of the customer if they get error-free data. 
                             So it is important to check your data to be error-free 
                             to gain more potential customers and motivate them to become your permanent leads.
                           </li>
                           <br/>                          <br/>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> You can calculate the behavior of the person through this process. Through the behavioral activity of 
                             the customer you can analyses your sales leads and accelerate your marketing activities.
                           </li>
@@ -93,7 +93,7 @@ const Banking_And_Financial = () => {
                         <ul className='single-list-inner style-check style-check mb-3'>
                           
                        
-                        <li>
+                        <li className="font-resp">
                             <FaCheckCircle /> It will be a cost-effective data management for your database. It 
                             will include cleansing your data, segmenting your data and helps in the database validation. 
                             This helps in keeping your data error-free. It should also be completed within a period of time.
@@ -107,7 +107,7 @@ const Banking_And_Financial = () => {
                       <div className='col-md-6  mt-5'>
                         <ul className='single-list-inner style-check style-check mb-3'>
                        
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> It will improve the efficiency of the marketing campaigns 
                             for your banking and financial sector. It indirectly helps you to get more 
                             revenue and returns on your investments. It creates brand popularity for the 

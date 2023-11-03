@@ -34,7 +34,7 @@ const WorkProcessFour = () => {
                 </div>
                 <div className='details'>
                   <h5 className='mb-3'>Data Cleansing</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   Clean, de-duplicate, standardize, normalize, verify and validate critical data of any of the company needs…
                   </p>
                 </div>
@@ -51,7 +51,7 @@ const WorkProcessFour = () => {
                 </div>
                 <div className='details'>
                   <h5 className='mb-3'>Data Appending</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   Append demographic, behavioral and lifestyle data to your customer needs & improve your marketing results…
                   </p>
                 </div>
@@ -68,7 +68,7 @@ const WorkProcessFour = () => {
                 </div>
                 <div className='details'>
                   <h5 className='mb-3'>Data Segmentation</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   Data segmentation will allow you to communicate a relevant and targeted message to each segment identified..,
                   </p>
                 </div>
@@ -85,7 +85,7 @@ const WorkProcessFour = () => {
                 </div>
                 <div className='details'>
                   <h5 className='mb-3'>Data Verification</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   Ensuring the data that are gathered are as accurate as possible, and to minimize human and instrument errors…
                   </p>
                 </div>
@@ -102,7 +102,7 @@ const WorkProcessFour = () => {
                 </div>
                 <div className='details'>
                   <h5 className='mb-3'>Email Appending</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   Processing of customer data and matching it with the data vendors database to obtain qualitative reach to the right customers…
                   </p>
                 </div>
@@ -119,7 +119,7 @@ const WorkProcessFour = () => {
                 </div>
                 <div className='details'>
                   <h5 className='mb-3'>Reverse Appending</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   Reverse lookup emails of your prospective customers can get high CTR for your campaigns … 
                   </p>
                 </div>
@@ -142,9 +142,9 @@ const WorkProcessFour = () => {
             <div className='col-lg-12'>
               <div className='section-title text-center pb-5'>
                 <h6 className='sub-title-sky-blue'>Galileo Data Email Lists</h6>
-                <h2 className='title'>
+                <h4 className='title'>
                 We provide access to Client Insights with guaranteed response rates as the email lists is verified through human intelligence.
-                </h2>
+                </h4>
               </div>
             </div>
           </div>
@@ -165,7 +165,7 @@ const WorkProcessFour = () => {
                   </div>
                   <div className='details'>
                     <h5 className='mb-3'>Automobile Industry</h5>
-                    <p className='content'>
+                    <p className='content font-resp'>
                     With our Automobile Industry Email and Mailing List target Automobile Dealers,
                     </p>
                   </div>
@@ -187,7 +187,7 @@ const WorkProcessFour = () => {
                   </div>
                   <div className='details'>
                     <h5 className='mb-3'>Banking & Financial</h5>
-                    <p className='content'>
+                    <p className='content font-resp'>
                     Our file comprises commercial banks, insurance companies,
                     </p>
                   </div>
@@ -209,7 +209,7 @@ const WorkProcessFour = () => {
                   </div>
                   <div className='details'>
                     <h5 className='mb-3'>Pharmaceutical and Biotech</h5>
-                    <p className='content'>
+                    <p className='content font-resp'>
                     The Pharmaceutical and Biotechnology Email Subscriber file is comprised
                     </p>
                   </div>
@@ -232,7 +232,7 @@ const WorkProcessFour = () => {
                   </div>
                   <div className='details'>
                     <h5 className='mb-3'>Construction</h5>
-                    <p className='content'>
+                    <p className='content font-resp'>
                     Connect with the construction industry prospects in the US with a smart move
                     </p>
                   </div>
@@ -255,7 +255,7 @@ const WorkProcessFour = () => {
                   </div>
                   <div className='details'>
                     <h5 className='mb-3'>Education</h5>
-                    <p className='content'>
+                    <p className='content font-resp'>
                     Galileo Data provides the most accurate and latest Education Email list that
                     </p>
                   </div>
@@ -280,7 +280,7 @@ const WorkProcessFour = () => {
                   </div>
                   <div className='details'>
                     <h5 className='mb-3'>Hospitality</h5>
-                    <p className='content'>
+                    <p className='content font-resp'>
                     The Hospitality Decision Makers business list has been meticulously researched
                     </p>
                   </div>
@@ -303,7 +303,7 @@ const WorkProcessFour = () => {
                   </div>
                   <div className='details'>
                     <h5 className='mb-3'>IT Industry</h5>
-                    <p className='content'>
+                    <p className='content font-resp'>
                     Galileo Data specializes in providing highly-responsive mailing lists, email lists
                     </p>
                   </div>
@@ -326,7 +326,7 @@ const WorkProcessFour = () => {
                   </div>
                   <div className='details'>
                     <h5 className='mb-3'>Logistic & Distribution</h5>
-                    <p className='content'>
+                    <p className='content font-resp'>
                     Our database in heavy machinery, retail, industrial manufacturing and similar
                     </p>
                   </div>
@@ -348,7 +348,7 @@ const WorkProcessFour = () => {
                   </div>
                   <div className='details'>
                     <h5 className='mb-3'>Real Estate</h5>
-                    <p className='content'>
+                    <p className='content font-resp'>
                     The real estate industry’s value chain has many moving parts, and each holds immense potential for creating
                     </p>
                   </div>
@@ -371,7 +371,7 @@ const WorkProcessFour = () => {
                   </div>
                   <div className='details'>
                     <h5 className='mb-3'>Retail</h5>
-                    <p className='content'>
+                    <p className='content font-resp'>
                     Demanding personalized products and services with digitally connected customers at the click of a button,
                     </p>
                   </div>
@@ -416,7 +416,7 @@ const WorkProcessFour = () => {
                   </div>
                   <div className='details'>
                     <h5 className='mb-3'>Travel & Tourism</h5>
-                    <p className='content'>
+                    <p className='content font-resp'>
                     The telecom sector continues to be at the epicenter for innovation, growth and disruption
                     </p>
                   </div>
@@ -438,7 +438,7 @@ const WorkProcessFour = () => {
                   </div>
                   <div className='details'>
                     <h5 className='mb-3'>Telecommunication</h5>
-                    <p className='content'>
+                    <p className='content font-resp'>
                     The telecom sector continues to be at the epicenter for innovation, growth
                     </p>
                   </div>
@@ -461,7 +461,7 @@ const WorkProcessFour = () => {
                   </div>
                   <div className='details'>
                     <h5 className='mb-3'>Utility & Energy</h5>
-                    <p className='content'>
+                    <p className='content font-resp'>
                    
                    Galileo Data provides of key professionals who manage and direct the overall
                     </p>

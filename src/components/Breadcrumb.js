@@ -12,18 +12,26 @@ const Breadcrumb = ({ title, subcontent }) => {
         <div className='container'>
           <div className='breadcrumb-inner'>
             <div className='row justify-content-center'>
-              <div className='col-lg-7'>
+              <div className='col-lg-12'>
+              <ul className='page-list'>
+                  <li>
+                    <Link to='/'>Home</Link>
+                  </li>
+                  {"  "}/ <li>{title}</li>
+                </ul>
+                <br/>
+                
                 <h2 className='page-title'>{title}</h2>
-                <p>       {subcontent}  </p>
+                <p className="font-resp" style={{textAlign:"justify"}}>  {subcontent}  </p>
               </div>
-              <div className='col-lg-5 text-lg-end'>
+              {/* <div className='col-lg-5 text-lg-end'>
                 <ul className='page-list'>
                   <li>
                     <Link to='/'>Home</Link>
                   </li>
                   {"  "}/ <li>{title}</li>
                 </ul>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

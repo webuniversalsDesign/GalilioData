@@ -64,7 +64,7 @@ const Information_Technology = () => {
                  
                 </h2>
        
-              <p className="pt-5"> Our lists are the highest-quality and most-responsive B2B and Information Technology mailing lists on the market, providing you with the most accurate and cost-effective way to reach your prospects!</p>
+              <p className="pt-5 font-resp"> Our lists are the highest-quality and most-responsive B2B and Information Technology mailing lists on the market, providing you with the most accurate and cost-effective way to reach your prospects!</p>
 
               
               </div>
@@ -75,30 +75,30 @@ const Information_Technology = () => {
             <div className="col-lg-3">
             <ul className='single-list-inner style-check style-check mb-3'>
 
-            <li> <FaCheckCircle /> Sage ACT CRM Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Sage ACT CRM Users</li>
             
-            <li> <FaCheckCircle /> SugarCRM Users</li>
+            <li className="font-resp"> <FaCheckCircle /> SugarCRM Users</li>
 
-            <li> <FaCheckCircle /> Salesforce CRM Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Salesforce CRM Users</li>
 
-            <li> <FaCheckCircle /> 3COM Users</li>
+            <li className="font-resp"> <FaCheckCircle /> 3COM Users</li>
 
-            <li> <FaCheckCircle /> IBM Mainframe Users</li>
+            <li className="font-resp"> <FaCheckCircle /> IBM Mainframe Users</li>
 
-            <li> <FaCheckCircle /> 3D Animation Software Users</li>
+            <li className="font-resp"> <FaCheckCircle /> 3D Animation Software Users</li>
 
-            <li> <FaCheckCircle /> Amdocs CRM Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Amdocs CRM Users</li>
 
-            <li> <FaCheckCircle /> Big Data Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Big Data Users</li>
 
-            <li> <FaCheckCircle /> Adobe Users</li>
-            <li> <FaCheckCircle /> JD Edwards Users</li>
-            <li> <FaCheckCircle /> Infor Applications Users</li>
-            <li> <FaCheckCircle /> Microsoft Dynamics GP Users</li>
-            <li> <FaCheckCircle /> AirWatch (MDM) Customers</li>
-            <li> <FaCheckCircle /> Arial Software Users</li>
-            <li> <FaCheckCircle /> Altova Users</li>
-            <li> <FaCheckCircle /> Amazon Web Services Customers</li>
+            <li className="font-resp"> <FaCheckCircle /> Adobe Users</li>
+            <li className="font-resp"> <FaCheckCircle /> JD Edwards Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Infor Applications Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Microsoft Dynamics GP Users</li>
+            <li className="font-resp"> <FaCheckCircle /> AirWatch (MDM) Customers</li>
+            <li className="font-resp"> <FaCheckCircle /> Arial Software Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Altova Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Amazon Web Services Customers</li>
 
     
 
@@ -109,34 +109,34 @@ const Information_Technology = () => {
             <div className="col-lg-3">
             <ul className='single-list-inner style-check style-check mb-3'>
 
-            <li> <FaCheckCircle /> Oracle Database Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Oracle Database Users</li>
 
-            <li> <FaCheckCircle /> Avaya Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Avaya Users</li>
 
-            <li> <FaCheckCircle /> Cisco Network Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Cisco Network Users</li>
 
-            <li> <FaCheckCircle /> CRM Users</li>
+            <li className="font-resp"> <FaCheckCircle /> CRM Users</li>
 
-            <li> <FaCheckCircle /> NetSuite Users Email List</li>
+            <li className="font-resp"> <FaCheckCircle /> NetSuite Users Email List</li>
 
-            <li> <FaCheckCircle /> GoldMine CRM Users</li>
+            <li className="font-resp"> <FaCheckCircle /> GoldMine CRM Users</li>
 
-            <li> <FaCheckCircle /> PeopleSoft Users</li>
+            <li className="font-resp"> <FaCheckCircle /> PeopleSoft Users</li>
 
-            <li> <FaCheckCircle /> Linux Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Linux Users</li>
 
-            <li> <FaCheckCircle /> Unix Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Unix Users</li>
 
-            <li> <FaCheckCircle /> ASP.NET Users</li>
+            <li className="font-resp"> <FaCheckCircle /> ASP.NET Users</li>
 
-            <li> <FaCheckCircle /> Lawson Software Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Lawson Software Users</li>
 
-            <li> <FaCheckCircle /> Java Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Java Users</li>
 
-            <li> <FaCheckCircle /> Software Developers</li>
-            <li> <FaCheckCircle /> Accellion Users</li>
-            <li> <FaCheckCircle /> Apache Spark</li>
-            <li> <FaCheckCircle /> ERP Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Software Developers</li>
+            <li className="font-resp"> <FaCheckCircle /> Accellion Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Apache Spark</li>
+            <li className="font-resp"> <FaCheckCircle /> ERP Users</li>
 
             </ul>
             </div>
@@ -144,22 +144,22 @@ const Information_Technology = () => {
             <div className="col-lg-3">
             <ul className='single-list-inner style-check style-check mb-3'>
 
-            <li> <FaCheckCircle />Eloqua Users</li>
-            <li> <FaCheckCircle /> Acronis True Image Software Users</li>
-            <li> <FaCheckCircle /> Accounting Software Users</li>
-            <li> <FaCheckCircle /> Oracle Users</li>
-            <li> <FaCheckCircle /> Altair Users</li>
-            <li> <FaCheckCircle /> Altium Customers</li>
-            <li> <FaCheckCircle /> Microsoft Users</li>
-            <li> <FaCheckCircle /> Archibus Users</li>
-            <li> <FaCheckCircle /> Arkeia Smart Backup Users</li>
-            <li> <FaCheckCircle /> Air2Web Users</li>
-            <li> <FaCheckCircle /> AS/400 & iSeries Users</li>
-            <li> <FaCheckCircle /> Alpha Anywhere Software Users</li>
-            <li> <FaCheckCircle /> Actuate Users</li>
-            <li> <FaCheckCircle /> Sybase DBMS Users</li>
-            <li> <FaCheckCircle /> aiSee Users</li>
-            <li> <FaCheckCircle /> SAP Users</li>
+            <li className="font-resp"> <FaCheckCircle />Eloqua Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Acronis True Image Software Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Accounting Software Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Oracle Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Altair Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Altium Customers</li>
+            <li className="font-resp"> <FaCheckCircle /> Microsoft Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Archibus Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Arkeia Smart Backup Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Air2Web Users</li>
+            <li className="font-resp"> <FaCheckCircle /> AS/400 & iSeries Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Alpha Anywhere Software Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Actuate Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Sybase DBMS Users</li>
+            <li className="font-resp"> <FaCheckCircle /> aiSee Users</li>
+            <li className="font-resp"> <FaCheckCircle /> SAP Users</li>
 
 
             </ul>
@@ -169,22 +169,22 @@ const Information_Technology = () => {
             <ul className='single-list-inner style-check style-check mb-3'>
 
       
-            <li> <FaCheckCircle /> Amisys Software Customers</li>
-            <li> <FaCheckCircle /> Apache Mesos Vendors</li>
-            <li> <FaCheckCircle /> Marketo Users</li>
-            <li> <FaCheckCircle /> Atlassian Users</li>
-            <li> <FaCheckCircle /> Axway Users</li>
-            <li> <FaCheckCircle /> Siebel CRM Users</li>
-            <li> <FaCheckCircle /> .Net Users</li>
-            <li> <FaCheckCircle /> Baan Users</li>
-            <li> <FaCheckCircle /> IBM DBMS Users</li>
-            <li> <FaCheckCircle /> AceProject Users</li>
-            <li> <FaCheckCircle /> Aruba Networks Users</li>
-            <li> <FaCheckCircle /> Adobe CQ5(CMS) Users</li>
-            <li> <FaCheckCircle /> Akamai Users</li>
-            <li> <FaCheckCircle /> Amazon RDS Users</li>
-            <li> <FaCheckCircle /> APM Software Users</li>
-            <li> <FaCheckCircle /> QuickBooks Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Amisys Software Customers</li>
+            <li className="font-resp"> <FaCheckCircle /> Apache Mesos Vendors</li>
+            <li className="font-resp"> <FaCheckCircle /> Marketo Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Atlassian Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Axway Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Siebel CRM Users</li>
+            <li className="font-resp"> <FaCheckCircle /> .Net Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Baan Users</li>
+            <li className="font-resp"> <FaCheckCircle /> IBM DBMS Users</li>
+            <li className="font-resp"> <FaCheckCircle /> AceProject Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Aruba Networks Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Adobe CQ5(CMS) Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Akamai Users</li>
+            <li className="font-resp"> <FaCheckCircle /> Amazon RDS Users</li>
+            <li className="font-resp"> <FaCheckCircle /> APM Software Users</li>
+            <li className="font-resp"> <FaCheckCircle /> QuickBooks Users</li>
             </ul>
             </div>
           </div>
@@ -202,7 +202,7 @@ const Information_Technology = () => {
             </h2>
             <h6 className='sub-title mt-3'>Find Your Technology Buyers And Decision Makers In Our List</h6>
 
-       <p>Knowing your technology customer base inside-out is imperative to building a robust conversion funnel. Know their purchase habits, their particular pain points, and who 
+       <p className="font-resp">Knowing your technology customer base inside-out is imperative to building a robust conversion funnel. Know their purchase habits, their particular pain points, and who 
        are actively seeking your products or services – all of these are the pillars of your marketing success.</p>
           </div>
 
@@ -210,11 +210,11 @@ const Information_Technology = () => {
 
           <ul className='single-list-inner style-check style-check mb-5'>
 
-<li> <FaCheckCircle /> Who is purchasing IT services and solutions?</li>
-<li> <FaCheckCircle /> How can I target customers looking for network security, server virtualizations, cloud backup implements, and other IT offerings? </li>
-<li> <FaCheckCircle /> How can I separate the hottest leads from the cold ones searching for managed workstations and workstation backups? </li>
-<li> <FaCheckCircle /> WHow to narrow down on IT procurement professionals? Which regions are they located in?ho </li>
-<li> <FaCheckCircle /> What is my product or solution’s TAM? </li>
+<li className="font-resp"> <FaCheckCircle /> Who is purchasing IT services and solutions?</li>
+<li className="font-resp"> <FaCheckCircle /> How can I target customers looking for network security, server virtualizations, cloud backup implements, and other IT offerings? </li>
+<li className="font-resp"> <FaCheckCircle /> How can I separate the hottest leads from the cold ones searching for managed workstations and workstation backups? </li>
+<li className="font-resp"> <FaCheckCircle /> WHow to narrow down on IT procurement professionals? Which regions are they located in?ho </li>
+<li className="font-resp"> <FaCheckCircle /> What is my product or solution’s TAM? </li>
 </ul>
 
 <h5>Reach Out To Your Entire Audience Of Tech Adopters And Influencers</h5>
@@ -226,10 +226,10 @@ const Information_Technology = () => {
 
     <ul className='single-list-inner style-check style-check mb-3'>
 
-<li> <FaCheckCircle /> Webmasters</li>
-<li> <FaCheckCircle /> DevOps Managers</li>
-<li> <FaCheckCircle /> Front End Developers</li>
-<li> <FaCheckCircle /> Cloud Computing Engineers</li>
+<li className="font-resp"> <FaCheckCircle /> Webmasters</li>
+<li className="font-resp"> <FaCheckCircle /> DevOps Managers</li>
+<li className="font-resp"> <FaCheckCircle /> Front End Developers</li>
+<li className="font-resp"> <FaCheckCircle /> Cloud Computing Engineers</li>
 </ul>
     </div>
 
@@ -237,10 +237,10 @@ const Information_Technology = () => {
 
     <ul className='single-list-inner style-check style-check mb-3'>
 
-    <li> <FaCheckCircle /> Cyber Security Specialists</li>
-<li> <FaCheckCircle /> Database Administrators</li>
-<li> <FaCheckCircle /> CIOs (Chief Information Officers)</li>
-<li> <FaCheckCircle /> CSOs (Chief Strategy Officers)</li>
+    <li className="font-resp"> <FaCheckCircle /> Cyber Security Specialists</li>
+<li className="font-resp"> <FaCheckCircle /> Database Administrators</li>
+<li className="font-resp"> <FaCheckCircle /> CIOs (Chief Information Officers)</li>
+<li className="font-resp"> <FaCheckCircle /> CSOs (Chief Strategy Officers)</li>
 </ul>
     </div>
 
@@ -249,10 +249,10 @@ const Information_Technology = () => {
     <ul className='single-list-inner style-check style-check mb-3'>
 
 
-<li> <FaCheckCircle /> CTOs (Chief Technology Officers)</li>
-<li> <FaCheckCircle /> System Architects</li>
-<li> <FaCheckCircle /> CISOs (Chief Information Security Officers)</li>
-<li> <FaCheckCircle /> IT Procurement Managers</li>
+<li className="font-resp"> <FaCheckCircle /> CTOs (Chief Technology Officers)</li>
+<li className="font-resp"> <FaCheckCircle /> System Architects</li>
+<li className="font-resp"> <FaCheckCircle /> CISOs (Chief Information Security Officers)</li>
+<li className="font-resp"> <FaCheckCircle /> IT Procurement Managers</li>
 
 </ul>
     </div>
@@ -262,11 +262,11 @@ const Information_Technology = () => {
 
 
 
-<p>B2B sales cycles amidst the technology industry are glacial, to say the least. Customer journeys are tedious, 
+<p className="font-resp">B2B sales cycles amidst the technology industry are glacial, to say the least. Customer journeys are tedious, 
 and longer sales pipelines  are often the norm. Naturally, you may end 
 up feeling like you’re digging for gold that you simply cannot find.</p>
 
-<p>However, Galileo Data B2B’s responsive and updated database is what changes things around. 
+<p className="font-resp">However, Galileo Data B2B’s responsive and updated database is what changes things around. 
 With pre-validated and in-depth customer information, you surpass intermediaries and 
 engage prospects directly, close deals faster and enjoy blazing-fast conversions.</p>
 

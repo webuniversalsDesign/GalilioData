@@ -24,7 +24,7 @@ const About = () => {
       {/* Navigation Bar */}
       <Breadcrumb
        title={"About Galileo Data Inc"} 
-      subcontent={"We have seen the data market at its best, and worst. Irrespective of how tricky the situation is, our data-driven  approach is equipped to get you through and transform your investments into sales and marketing opportunities."} />
+      subcontent={"We have seen the data market at its best, and worst. Irrespective of how tricky the situation is, our data-driven  approach is equipped to get you through and transform your investments into sales and marketing opportunities. We are not the only data-seller out there, but we stand out because of our quality. Our aim is to provide clean and extremely qualified contact lists. We work with ISPs and ESPs to keep our email databases up to date. Unlike our competitors, who may provide a complicated mailing list, we provide the actual data files, ready to be fed into your CRM software. We also guarantee a 95% deliverability rate with our contacts."} />
 
       {/* About Area One */}
       <AboutAreaOne />
@@ -32,13 +32,13 @@ const About = () => {
       <div className="container ">
 <h3 className="text-center">Why Galileo Data?</h3>
 
-        <p style={{textAlign:"justify"}}>Galileo Data provides global business organizations with the fuel — ‘DATA’ to power their multi-channel 
+        <p style={{textAlign:"justify"}} className="font-resp">Galileo Data provides global business organizations with the fuel — ‘DATA’ to power their multi-channel 
         marketing campaigns. Having emerged as one of the highly trusted sources of sales and marketing data across 
         the globe, we help your sales and marketing cadre in utilizing data to generate sales, 
         drive conversations and achieve greater returns on investment.</p>
 
 
-        <p style={{textAlign:"justify"}}>By harnessing the Big Data/ Data Science world, Galileo Data collates contact 
+        <p style={{textAlign:"justify"}} className="font-resp">By harnessing the Big Data/ Data Science world, Galileo Data collates contact 
         and company information from all over the web. Once done, it applies 1000+ data/process 
         rules to build a robust and accurate repository of context-rich, clean, normalized and 
         deduped data. Today, Galileo Data maintains a rich data repository of over 90 Million 
@@ -83,7 +83,7 @@ const About = () => {
                 <div className='details'>
                 <p className="process-count">Step 1</p>
                   <h5 className='mb-3'>Your lead data is in safe hands</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   We acquire an opt-in email database to ensure maximum deliverability. Boost campaign success with the most extensive email addresses.
                   </p>
                 </div>
@@ -98,7 +98,7 @@ const About = () => {
                 <div className='details'>
                 <p className="process-count">Step 2</p>
                   <h5 className='mb-3'>We research your top customers</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   Our in-house research team fills in the missing information. 
                   We add more intelligence fields for relevant contextual campaigns.
                   </p>
@@ -115,7 +115,7 @@ const About = () => {
                 <div className='details'>
                 <p className="process-count">Step 3</p>
                   <h5 className='mb-3'>Rigorous validation process</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   Our contact center team verifies and validates the data of your email leads.We 
                   collect more customer details through tele-surveys and white paper download programs.
                   </p>
@@ -132,7 +132,7 @@ const About = () => {
                 <div className='details'>
                 <p className="process-count">Step 4</p>
                   <h5 className='mb-3'>Identification of email blind spots</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   NCOA, Mortis suppression, Spam traps /honeypots, complainers 
                   and opt-outs etc. are aggregated into a suppression file and de-duped.
                   </p>
@@ -149,7 +149,7 @@ const About = () => {
                 <div className='details'>
                 <p className="process-count">Step 5</p>
                   <h5 className='mb-3'>Email address verification</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   Simple SMTP ping tests using partner tools such as BriteVerify, 
                   Xverify, ImpressionWise, Freshaddress, DataValidation, Informatica etc.
                   </p>
@@ -166,7 +166,7 @@ const About = () => {
                 <div className='details'>
                 <p className="process-count">Step 6</p>
                   <h5 className='mb-3'>Executing email campaigns</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   Live email campaign is executed with high email deliverability. 
                   Any opt-outs or bounces are added to our suppression ﬁles.
                   </p>
@@ -183,7 +183,7 @@ const About = () => {
                 <div className='details'>
                 <p className="process-count">Step 7</p>
                   <h5 className='mb-3'>Automated email validation</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   Our social and web validation team manually validates the email database. 
                   Through this validation process we add social media links to contacts.
                   </p>
@@ -200,7 +200,7 @@ const About = () => {
                 <div className='details'>
                 <p className="process-count">Step 8</p>
                   <h5 className='mb-3'>Convert email leads to customers</h5>
-                  <p className='content'>
+                  <p className='content font-resp'>
                   We run a targeted opt-in campaign for purchased email lists by seeking approval of your prospects. 
                   We use 3rd party direct marketing activities and remove opt-outs within 48 hours.
                   </p>
@@ -219,7 +219,7 @@ const About = () => {
         style={{ backgroundImage: 'url("./assets/img/bg/3.png")' }}
       >
         <div className='container'>
-          <div className='row'>
+          <div className='row align-items-center'>
             <div
               className='col-xl-5 col-lg-6 col-md-8 order-lg-last'
               data-aos='fade-left'
@@ -280,7 +280,7 @@ const About = () => {
                     aria-labelledby='headingOne'
                     data-bs-parent='#accordionExample'
                   >
-                    <div className='accordion-body'>
+                    <div className='accordion-body font-resp'>
                     As an astute marketer, you should buy email list for effective multichannel 
                     campaigning. When you buy targeted email list you get access to authentic data 
                     on key decision makers, technology users and C-Suite executives. At Galileo Data Inc we ensure that once you buy email 
@@ -308,7 +308,7 @@ const About = () => {
                     aria-labelledby='headingTwo'
                     data-bs-parent='#accordionExample'
                   >
-                    <div className='accordion-body'>
+                    <div className='accordion-body font-resp'>
                     You may buy email list with tele-verified and responsive data from Galileo Data Inc. That 
                     is not all; you may get access to a sample list before you buy email lists. A sample mailing list 
                     gives a preview of the lists from Galileo Data Inc. ensuring that marketers get nothing but the best.
@@ -335,7 +335,7 @@ const About = () => {
                     aria-labelledby='heading3'
                     data-bs-parent='#accordionExample'
                   >
-                    <div className='accordion-body'>
+                    <div className='accordion-body font-resp'>
                     It is an astute business decision to buy email list if you wish to succeed in global multichannel 
                     campaigns. The verified and validated email lists are certain to give you 
                   an edge over your competitors with authentic, responsive and customizable B2B email lists.
@@ -362,11 +362,116 @@ const About = () => {
                     aria-labelledby='heading4'
                     data-bs-parent='#accordionExample'
                   >
-                    <div className='accordion-body'>
+                    <div className='accordion-body font-resp'>
                     Yes, you can and it is quite simple. Before investing in the mailing lists, you may get a 
                     preview of the purchasing email list by opting to get a sample list for free. Our B2B email 
                     lists are exhaustive and 
                     based on your business criteria we can customize the email list.
+                    </div>
+                  </div>
+                </div>
+
+                <div className='accordion-item'>
+                  <h2 className='accordion-header' id='heading5'>
+                    <button
+                      className='accordion-button collapsed color-default-h'
+                      type='button'
+                      data-bs-toggle='collapse'
+                      data-bs-target='#collapse5'
+                      aria-expanded='false'
+                      aria-controls='collapse5'
+                    >
+              How Much Does It Cost To Buy An Email List?
+                    </button>
+                  </h2>
+                  <div
+                    id='collapse5'
+                    className='accordion-collapse collapse'
+                    aria-labelledby='heading5'
+                    data-bs-parent='#accordionExample'
+                  >
+                    <div className='accordion-body font-resp'>
+                    There is no ‘one size fits all’ rule when it comes to the pricing of mailing lists. 
+                    You may write in to us at info@galileodata.us for more information on pricing.
+                    </div>
+                  </div>
+                </div>
+
+                <div className='accordion-item'>
+                  <h2 className='accordion-header' id='heading6'>
+                    <button
+                      className='accordion-button collapsed color-default-h'
+                      type='button'
+                      data-bs-toggle='collapse'
+                      data-bs-target='#collapse6'
+                      aria-expanded='false'
+                      aria-controls='collapse6'
+                    >
+                What Do I Get With An Email List?
+                    </button>
+                  </h2>
+                  <div
+                    id='collapse5'
+                    className='accordion-collapse collapse'
+                    aria-labelledby='heading6'
+                    data-bs-parent='#accordionExample'
+                  >
+                    <div className='accordion-body font-resp'>
+                    Yes, you can buy email lists in a few simple steps. Once you buy the mailing list, you get the 
+                    database with first name and last name, location and zip code, email address, SIC code and more.
+                    </div>
+                  </div>
+                </div>
+
+                <div className='accordion-item'>
+                  <h2 className='accordion-header' id='heading7'>
+                    <button
+                      className='accordion-button collapsed color-default-h'
+                      type='button'
+                      data-bs-toggle='collapse'
+                      data-bs-target='#collapse7'
+                      aria-expanded='false'
+                      aria-controls='collapse7'
+                    >
+                 How Do I Get An Email List For Marketing?
+                    </button>
+                  </h2>
+                  <div
+                    id='collapse5'
+                    className='accordion-collapse collapse'
+                    aria-labelledby='heading7'
+                    data-bs-parent='#accordionExample'
+                  >
+                    <div className='accordion-body font-resp'>
+                    Galileo Data Inc is a leading provider of mailing list and you may procure the list by writing in 
+                  to us at: info@galileodata.us Additionally, 
+                  you may download a sample list to know more about our databases.
+                    </div>
+                  </div>
+                </div>
+
+                <div className='accordion-item'>
+                  <h2 className='accordion-header' id='heading8'>
+                    <button
+                      className='accordion-button collapsed color-default-h'
+                      type='button'
+                      data-bs-toggle='collapse'
+                      data-bs-target='#collapse8'
+                      aria-expanded='false'
+                      aria-controls='collapse8'
+                    >
+                    What Is The Pricing Like For Email Lists?
+                    </button>
+                  </h2>
+                  <div
+                    id='collapse5'
+                    className='accordion-collapse collapse'
+                    aria-labelledby='heading8'
+                    data-bs-parent='#accordionExample'
+                  >
+                    <div className='accordion-body font-resp'>
+                    To know more about the email database pricing, you may call at 646 461 2757 for a free one-on-one consultation 
+                  or write in to us at: info@galileodata.us for detailed information on pricing.
                     </div>
                   </div>
                 </div>
@@ -375,133 +480,6 @@ const About = () => {
             </div>
           </div>
 
-<div className="row pt-5 ">
-  <div className="col-md-6">
-
-  <div
-                className='accordion accordion-inner style-2 accordion-icon-left mt-3'
-                id='accordionExample'
-              >
-
-                <div className='accordion-item'>
-                  <h2 className='accordion-header' id='botheadingOne'>
-                    <button
-                      className='accordion-button color-default-h'
-                      type='button'
-                      data-bs-toggle='collapse'
-                      data-bs-target='#botcollapseOne'
-                      aria-expanded='true'
-                      aria-controls='botcollapseOne'
-                    >
-                      How Much Does It Cost To Buy An Email List?
-                    </button>
-                  </h2>
-                  <div
-                    id='botcollapseOne'
-                    className='accordion-collapse collapse show'
-                    aria-labelledby='botheadingOne'
-                    data-bs-parent='#accordionExample'
-                  >
-                    <div className='accordion-body'>
-                    There is no ‘one size fits all’ rule when it comes to the pricing of mailing lists. 
-                    You may write in to us at info@galileodata.us for more information on pricing.
-                    </div>
-                  </div>
-                </div>
-
-                <div className='accordion-item'>
-                  <h2 className='accordion-header' id='botheadingTwo'>
-                    <button
-                      className='accordion-button collapsed color-default-h'
-                      type='button'
-                      data-bs-toggle='collapse'
-                      data-bs-target='#botcollapseTwo'
-                      aria-expanded='false'
-                      aria-controls='collapseTwo'
-                    >
-              What Do I Get With An Email List?
-                    </button>
-                  </h2>
-                  <div
-                    id='botcollapseTwo'
-                    className='accordion-collapse collapse'
-                    aria-labelledby='botheadingTwo'
-                    data-bs-parent='#accordionExample'
-                  >
-                    <div className='accordion-body'>
-                    Yes, you can buy email lists in a few simple steps. Once you buy the mailing list, you get the 
-                    database with first name and last name, location and zip code, email address, SIC code and more.
-                    </div>
-                  </div>
-                </div>
-        
-              </div>
-  </div>
-
-  <div className="col-md-6">
-
-<div
-              className='accordion accordion-inner style-2 accordion-icon-left mt-3'
-              id='accordionExample'
-            >
-
-              <div className='accordion-item'>
-                <h2 className='accordion-header' id='botheading3'>
-                  <button
-                    className='accordion-button color-default-h'
-                    type='button'
-                    data-bs-toggle='collapse'
-                    data-bs-target='#botcollapse3'
-                    aria-expanded='true'
-                    aria-controls='collapseOne'
-                  >
-                    How Do I Get An Email List For Marketing?
-                  </button>
-                </h2>
-                <div
-                  id='botcollapse3'
-                  className='accordion-collapse collapse show'
-                  aria-labelledby='botheading3'
-                  data-bs-parent='#accordionExample'
-                >
-                  <div className='accordion-body'>
-                  Galileo Data Inc is a leading provider of mailing list and you may procure the list by writing in 
-                  to us at: info@galileodata.us Additionally, 
-                  you may download a sample list to know more about our databases.
-                  </div>
-                </div>
-              </div>
-
-
-              <div className='accordion-item'>
-                  <h2 className='accordion-header' id='botheading5'>
-                    <button
-                      className='accordion-button collapsed color-default-h'
-                      type='button'
-                      data-bs-toggle='collapse'
-                      data-bs-target='#botcollapse5'
-                      aria-expanded='false'
-                      aria-controls='collapseTwo'
-                    >
-                 What Is The Pricing Like For Email Lists?
-                    </button>
-                  </h2>
-                  <div
-                    id='botcollapse5'
-                    className='accordion-collapse collapse'
-                    aria-labelledby='botheading5'
-                    data-bs-parent='#accordionExample'
-                  >
-                    <div className='accordion-body'>
-                    To know more about the email database pricing, you may call at 646 461 2757 for a free one-on-one consultation 
-                  or write in to us at: info@galileodata.us for detailed information on pricing.
-                    </div>
-                  </div>
-                </div>
-      
-            </div>
-</div>
-</div>
         </div>
 
         

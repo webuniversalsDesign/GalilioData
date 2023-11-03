@@ -67,7 +67,7 @@ const Utility_And_Energy = () => {
 
                 <h6 className='content mb-xl-3'>Using our specialized list, target the top decision makers of Utility industry in the following categories:</h6>
 
-                 <p className="content mb-xl-3">Reduce your marketing efforts by half using our well-defined customer bases.
+                 <p className="content mb-xl-3 font-resp">Reduce your marketing efforts by half using our well-defined customer bases.
                   Now leave the guesswork behind and trust our verified
                   contacts to identify, engage, and convert prospective customers using the hawk-eyed TAM approach.</p>
 
@@ -88,16 +88,16 @@ const Utility_And_Energy = () => {
             </div>
           </div>
 
-<p>As a high yielding business that is the capital incentive, there is a continuous inflow of funds leading to growing
+<p className="font-resp">As a high yielding business that is the capital incentive, there is a continuous inflow of funds leading to growing
  demand. The utility division is a category of stocks for utilities such as natural gas, electricity, water, power and 
  other services. During the last few years the sector is engaged at a consumer, industrial and commercial levels. Utility 
 Industry Email List helps you establish flawless connections between businesses at your multichannel marketing campaigns.</p>
 
-<p>Choose from our Utility industry email list to meet key decision makers, professionals with purchasing power across 
+<p className="font-resp">Choose from our Utility industry email list to meet key decision makers, professionals with purchasing power across 
 US, UK, Russia, India, China, Europe, Australia,
  North America, South America, New Zealand, Canada and more.</p>
 
- <p>Our pre-packaged and customized list is designed to establish connections with prospects across the globe without 
+ <p className="font-resp">Our pre-packaged and customized list is designed to establish connections with prospects across the globe without 
  any demographical barriers. Galileo Data’s high-quality Utility industry mailing list is comprehensive, authentic and 
  verified from various sources. Connect with your prospects via email, phone, and direct mail. Pick up the right ladder and see 
  more fabulous results that help you maximize sales and ROI.</p>

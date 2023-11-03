@@ -17,7 +17,7 @@
   .widget {
     position: relative;
     z-index: 2;
-    margin-bottom: 70px;
+    margin-bottom: 20px;
   }
   .widget-title {
     margin-bottom: 30px;
@@ -160,8 +160,8 @@
   padding-bottom: 90px;
 }
 .footer-bottom {
-  border-top: 1px solid rgba(255, 255, 255, 0.08);
-  padding: 23px 0;
+  border-top: 1px solid rgb(100, 100, 100);
+  padding: 15px 0;
   position: relative;
   z-index: 2;
   p {

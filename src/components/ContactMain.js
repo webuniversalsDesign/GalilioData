@@ -107,7 +107,7 @@ const ContactMain = () => {
 
   <div className="col-lg-4 pt-2 pb-2">
 <div className="contact-inner-card">
-  <div className="d-flex align-items-center">
+  <div className="d-flex ">
 <div className="contact-inner-img">
 <img src={haeadquaters} alt="contact-country"/>
 </div>
@@ -122,14 +122,14 @@ const ContactMain = () => {
 
   <div className="col-lg-4 pt-2 pb-2">
 <div className="contact-inner-card">
-  <div className="d-flex align-items-center">
+  <div className="d-flex ">
 <div className="contact-inner-img">
 <img src={Licencs} alt="contact-country"/>
 </div>
 
 <div className="contact-inner-info">
 <h6>Galileo Acquisitions & Licensing</h6>
-<p>One Liberty Plaza , Suite 2310, New York, NY 10006United States</p>
+<p>One Liberty Plaza, Suite 2310, New York, NY 10006 &nbsp;&nbsp;&nbsp; United States</p>
 </div>
   </div>
 </div>
@@ -137,7 +137,7 @@ const ContactMain = () => {
 
   <div className="col-lg-4 pt-2 pb-2">
 <div className="contact-inner-card">
-  <div className="d-flex align-items-center ">
+  <div className="d-flex ">
 <div className="contact-inner-img">
 <img src={delight} alt="contact-country"/>
 </div>
@@ -151,9 +151,10 @@ const ContactMain = () => {
   </div>
 </div>
 
-          <div className='contact-page-inner bg-gray'>
+          <div className='contact-page-inner-2 bg-gray'>
             <div className='section-title mb-4 pb-2'>
-              <h2 className='title'>Get in Touch</h2>
+            <h2 className="text-center pb-3">Our Data, Your Prospects</h2>
+              <h3 className='title'>Get in Touch</h3>
               <p className='content mb-0'>
               Contact our data experts now or call +1 646-461-2757
               </p>

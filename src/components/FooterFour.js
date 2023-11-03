@@ -28,12 +28,12 @@ const FooterFour = () => {
         <div className='footer-subscribe'>
           <div className='container'>
             <div className='footer-subscribe-inner box-shadow style-2 bg-white p-0 bg-cover'>
-             <a href="tel:+(08)-387-214-032"> <div className='media bg-base-2'>
+             <a href="tel:+1 646-461-2757"> <div className='media bg-base-2'>
                 <div className='media-left me-3 align-self-xl-center'>
                   <img src='assets/img/icon/40.svg' alt='img' />
                 </div>
               <div className='media-body'>
-                  <h6 className='text-white'>+(08)-387-214-032</h6>
+                  <h6 className='text-white'>+1 646-461-2757</h6>
                   <p className='mb-0 text-white'>Need Advice?</p>
                 </div>  
               </div></a>
@@ -67,18 +67,18 @@ const FooterFour = () => {
                 <h4 className='widget-title'>About Us</h4>
                 <div className='widget widget_contact'>
                   <ul className='details text-white'>
-                    <li>
+                    <li style={{textAlign:"justify"}} className="font-resp">
                    
                     The Future of marketing belongs to those who can turn data into information into 
-                    insights,and insights into an unwavering commitment to serving customers to the best of their abilities.
+                    insights, and insights into an unwavering commitment to serving customers to the best of their abilities.
                     </li>
                   </ul>
 
                   <Link to='/'> <img src={logo} className="footerLogo" alt="footerlogo"/></Link>
                   <ul className='social-media mt-4'>
-                    <li>
-                      <a href='https://www.linkedin.com/company/galileo-data-inc/?viewAsMember=true' target="_blank" rel="noreferrer" className='sky'>
-                        <FaLinkedin />
+                    <li>     Follow us on : 
+                      <a href='https://www.linkedin.com/company/galileo-data-inc/?viewAsMember=true' target="_blank" rel="noreferrer" className='sky mt-2'>
+                    <FaLinkedin />
                       </a>
                     </li>
                   
@@ -90,22 +90,22 @@ const FooterFour = () => {
               <div className='widget widget_nav_menu'>
                 <h4 className='widget-title'>Important Links</h4>
                 <ul>
-                  <li className='sky'>
+                  <li className='sky font-resp'>
                     <Link to='/'>
                       <FaChevronRight /> Home
                     </Link>
                   </li>
-                  <li className='sky'>
+                  <li className='sky font-resp'>
                     <Link to='/About'>
                       <FaChevronRight /> About Us
                     </Link>
                   </li>
-                  <li className='sky'>
+                  <li className='sky font-resp'>
                     <Link to='/GDRP_Complaint'>
                       <FaChevronRight /> GDRP - Complaint
                     </Link>
                   </li>
-                  <li className='sky'>
+                  <li className='sky font-resp'>
                     <Link to='/contact'>
                       <FaChevronRight /> Contact Us
                     </Link>
@@ -117,12 +117,12 @@ const FooterFour = () => {
               <div className='widget widget_nav_menu'>
                 <h4 className='widget-title'>Digital Marketing</h4>
                 <ul>
-                  <li className='sky'>
+                  <li className='sky font-resp'>
                     <Link to='/Social_Media_Marketing'>
                       <FaChevronRight /> Social Media Marketing
                     </Link>
                   </li>
-                  <li className='sky'>
+                  <li className='sky font-resp'>
                     <Link to='/Web_Design'>
                       <FaChevronRight /> Web Design
                     </Link>
@@ -130,29 +130,29 @@ const FooterFour = () => {
                   <li className='sky' style={{fontWeight:"600", fontSize:"20px"}}>
                       Data Solution
                   </li>
-                  <li className='sky'>
+                  <li className='sky font-resp'>
                     <Link to='/Data_Cleaning'>
                       <FaChevronRight /> Data Cleansing
                     </Link>
                   </li>
-                  <li className='sky'>
+                  <li className='sky font-resp'>
                     <Link to='/Data_Appending'>
                       <FaChevronRight /> Data Appending
                     </Link>
                   </li>
-                  <li className='sky'>
+                  <li className='sky font-resp'>
                     <Link to='/Data_Segmentation'>
                       <FaChevronRight /> Data Segmentation
                     </Link>
                   </li>
 
-                  <li className='sky'>
+                  <li className='sky font-resp'>
                     <Link to='/Data_Verification'>
                       <FaChevronRight /> Data Verification
                     </Link>
                   </li>
 
-                  <li className='sky'>
+                  <li className='sky font-resp'>
                     <Link to='/Reverse_Appending'>
                       <FaChevronRight /> Reverse Appending
                     </Link>
@@ -164,15 +164,14 @@ const FooterFour = () => {
               <div className='widget widget-recent-post'>
                 <h4 className='widget-title'>Headquarters</h4>
                 <ul className='details text-white'>
-                    <li>
-                      <FaMapMarkerAlt className='sky' />
-                      2150 SOUTH, 1300 EAST , 500 PMB #1771,
+                    <li className="font-resp">
+                      <FaMapMarkerAlt className='sky' /> &nbsp; &nbsp; 2150 SOUTH, 1300 EAST , 500 PMB #1771,
 SALT LAKE, UT 84106 UNITED STATES
                     </li>
-                    <li className='mt-3'>
+                    <li className='mt-3 font-resp'>
                      <a href="tel:+1 646 461 2757"><FaPhoneAlt className='sky' /> &nbsp; &nbsp; 646-461-2757</a> 
                     </li>
-                    <li className='mt-2'>
+                    <li className='mt-2 font-resp'>
                      <a href="mailto:info@galileodata.us"><FaEnvelope className='sky' />&nbsp; &nbsp; info@galileodata.us</a> 
                     </li>
 
@@ -192,13 +191,13 @@ SALT LAKE, UT 84106 UNITED STATES
           <div className='container'>
             <div className='row'>
               <div className='col-md-6 align-self-center'>
-                <p>Copyright © 2023 Galileo Data Inc. All rights reserved.</p>
+                <p className="font-resp">Copyright © 2023 Galileo Data Inc. All rights reserved.</p>
               </div>
               <div className='col-md-6 text-lg-end'>
            
-                <Link to='/TermsCondition'>Terms &amp; Condition</Link>
-                <Link to='/PrivacyPolicy'>Privacy Policy</Link>
-                <Link to='/Contact'>Contact Us</Link>
+                <Link to='/TermsCondition' className="font-resp">Terms &amp; Condition</Link>
+                <Link to='/PrivacyPolicy' className="font-resp">Privacy Policy</Link>
+                <Link to='/Contact' className="font-resp">Contact Us</Link>
             
               </div>
             </div>

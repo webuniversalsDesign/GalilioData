@@ -75,19 +75,19 @@ const Construction_Industry = () => {
               
                 <ul className='single-list-inner style-check style-check mb-3 pt-4'>
 
-                          <li className="pt-3">
+                          <li className="pt-3 font-resp">
                             <FaCheckCircle /> We believe our List of Builders and Construction Companies contains the most accurate and update information 
                             possible. After all, few other suppliers go to such lengths to ensure that the data you purchase is as accurate and up to date.
                           </li>
 
-                          <li className="pt-3"> <FaCheckCircle /> Galileo Data Construction Industry Lists have several contacts within Heavy Construction Contractors, 
+                          <li className="pt-3 font-resp"> <FaCheckCircle /> Galileo Data Construction Industry Lists have several contacts within Heavy Construction Contractors, 
                         General Building Contractors and Special Trade Contractors.
                           </li>
-  <li className="pt-3">
+  <li className="pt-3 font-resp">
                             <FaCheckCircle /> Our customized Construction Industry Email addresses can enable you to reach key decision makers or the business 
                             executives within the Construction Industry worldwide.
                           </li>
- <li className="pt-3">
+ <li className="pt-3 font-resp">
                             <FaCheckCircle /> But we also recognize that no database can be perfect. Businesses are constantly opening, 
                             closing and relocating. So it’s natural to receive a small amount of outdated records.
                           </li>
@@ -116,12 +116,12 @@ const Construction_Industry = () => {
                 Run a Marketing Campaign with Construction Company Email List
                 
                 </h2>
-                <p className='content mb-4 mb-xl-5'>
+                <p className='content mb-4 mb-xl-5 font-resp'>
                 The global construction industry soared to a whopping US$ 12,921.4 in 2019. This figure shows a Compound Annual Growth Rate (CAGR) of 6.1% since 2015. With such staggering numbers, you ought to tap sales leads within this sector. If you already extend business offerings to the construction industry, then kudos, you can make incredible profits if you have the right contacts. If not, you can always procure them from Galileo. How? By leveraging our Construction Industry Email List.
 The Galileo Data Inc Construction Company Contact List consists of individuals within all levels of the construction business. Email, postal and telemarketing data are available for a multi-channel campaign. Our file includes businesses from many areas of the construction industry including building companies and contractors.
 </p>
 
-<p className='content mb-4 mb-xl-5'>
+<p className='content mb-4 mb-xl-5 font-resp'>
 We have sourced the construction industry data from a multitude of event-driven directories. A strong commitment to accuracy and attention to detail makes Galileo Data Inc Construction Companies Directory is one of the highest quality business lists available, for rental or purchase. It has been designed and customized for, and used successfully by, organizations selling high value-added products or services
 </p>
 
@@ -209,7 +209,7 @@ We have sourced the construction industry data from a multitude of event-driven 
                   
                    
                 </h2>
-                <p className='content mb-4 mb-xl-5'>
+                <p className='content mb-4 mb-xl-5 font-resp'>
                 Why not? We offer a vetted and verified list of almost 6,40,000 contacts! – all of them ethically sourced, routinely updated and cleansed. 
                 But, this is not it. When you choose our Contractor Email Address, you get a slew of benefits, such as 
                 </p>
@@ -223,7 +223,7 @@ We have sourced the construction industry data from a multitude of event-driven 
 
                       <div className='details'>
                         <h5>International Data Compliance</h5>
-                        <p>
+                        <p className="font-resp">
                         Galileo Data Construction Industry Lists have several contacts within Heavy Construction Contractors, General
                          Building Contractors and Special Trade Contractors.aOur Construction List complies with GDPR norms and
                           international anti-spam norms. So, you can use them for deploying bulk mailing campaigns without getting flagged as spam. 
@@ -239,7 +239,7 @@ We have sourced the construction industry data from a multitude of event-driven 
                       </div>
                       <div className='details'>
                         <h5>100% Tele-Verified Contractor Email Lists</h5>
-                        <p>
+                        <p className="font-resp">
                         Our experts make about 1.2 million verification calls per month. No wonder we guarantee a highly 
                         responsive Construction Company Database that is 100% accurate. 
                         You will not find any typos, duplicate entries, incomplete data fields, or cold leads on our lists.
@@ -263,7 +263,7 @@ We have sourced the construction industry data from a multitude of event-driven 
                       </div>
                       <div className='details'>
                         <h5>Seamless Integration with CMS</h5>
-                        <p>
+                        <p className="font-resp">
                         If you worry that you will end up investing a substantial amount of time integrating our data list with 
                         your CRM software, think again! Our Construction Email List will be compatible with 
                         most CRM applications, and what's more, they can integrate with your old email list if you have one.
@@ -279,7 +279,7 @@ We have sourced the construction industry data from a multitude of event-driven 
                       </div>
                       <div className='details'>
                         <h5>Market on Multiple Channels</h5>
-                        <p>
+                        <p className="font-resp">
                         Why only tap into email marketing? What if your niche clientele responds better over phone calls? 
                         Fret not! Galileo Data List of Construction Companies offer not just email 
                         contact information but also postal addresses, phone numbers, and other categories of informatio

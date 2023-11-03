@@ -23,7 +23,7 @@ const Automotive = () => {
 
       {/* Navigation Bar */}
       <Breadcrumb title={"Automobile/Automotive Email List"}
-      subcontent={"With our Automobile Industry Email and Mailing List target Automobile Dealers, Automobile Manufacturing and Auto Retail Sector. Our Automobile Industry List has thousands of Executive from Automobile Dealers, Car Washes, auto OEMs, Automotive Parts & Accessories Stores, Repair & Maintenance Services and more. You can pick the right step of the ladder and contact the right decision maker or the Executive Level titles within our Automobile Industry Email and Mailing List."}
+      subcontent={"With our Automobile Industry Email and Mailing List target Automobile Dealers, Automobile Manufacturing and Auto Retail Sector. Our Automobile Industry List has thousands of Executive from Automobile Dealers, Car Washes, auto OEMs, Automotive Parts & Accessories Stores, Repair & Maintenance Services and more. You can pick the right step of the ladder and contact the right decision maker or the Executive Level titles within our Automobile Industry Email and Mailing List. Omnichannel marketing is the key to modern customer engagement. It’s an innovative way of connecting with customers across multiple channels and devices to provide them with a seamless experience throughout their journey. Galileo Data’s expert digital marketers are ready to provide exemplary email marketing from start to finish. As more and more companies are using this strategy to gain insightful customer data, create targeted campaigns, measure results in real-time, and get feedback from customers through surveys and polls, we believe your automotive business will benefit from these solutions."}
        />
 
       <div className='about-area pt-5'>
@@ -75,33 +75,33 @@ const Automotive = () => {
                 <div className='row pt-4'>
                       <div className='col-md-6'>
                         <ul className='single-list-inner style-check style-check mb-3'>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Automobile Dealers
                           </li>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Auto Lending
                           </li>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle />Automobile Manufacturing
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle />Tire Wholesalers and Dealers
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle />Automobile Manufacturing
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle />Abrasives Manufacturing
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle />Automobile Rental & Leasing
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle />Automotive Repair & Maintenance Services
                           </li>
                         
@@ -109,33 +109,33 @@ const Automotive = () => {
                       </div>
                       <div className='col-md-6'>
                         <ul className='single-list-inner style-check style-check mb-3'>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Motor Vehicle Towing
                           </li>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Auto Consumer Services
                           </li>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Automobile Parts Manufacturing
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Automotive Parts & Accessories Stores
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Auto Fabricated Metal Product Manufacturing
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Auto Retail Sector
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle />Automobile Rental & Leasing
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle />Hospitality Dealers
                           </li>
 
@@ -177,7 +177,7 @@ const Automotive = () => {
                 </div>
                 <div className='details'>
                 {/* <p className="process-count">Step 1</p> */}
-                  <p className='content'>Generates maximum response rates for your marketing campaigns</p>
+                  <p className='content font-resp'>Generates maximum response rates for your marketing campaigns</p>
                   {/* <p className='content'>
                   We acquire an opt-in email database to ensure maximum deliverability. Boost campaign success with the most extensive email addresses.
                   </p> */}
@@ -194,7 +194,7 @@ const Automotive = () => {
                 </div>
                 <div className='details'>
                 {/* <p className="process-count">Step 2</p> */}
-                <p className='content'>
+                <p className='content font-resp'>
                     High deliverance rate and brand recognition
                 </p>
                 
@@ -211,7 +211,7 @@ const Automotive = () => {
                 </div>
                 <div className='details'>
                 {/* <p className="process-count">Step 3</p> */}
-                <p className='content'>High conversion rates and ROI (return on investment)</p>
+                <p className='content font-resp'>High conversion rates and ROI (return on investment)</p>
                  
                 </div>
               </div>
@@ -225,7 +225,7 @@ const Automotive = () => {
                 </div>
                 <div className='details'>
                 {/* <p className="process-count">Step 4</p> */}
-                <p className='content'>High opt-in data that provide marketers zero-in on their very best prospects</p>
+                <p className='content font-resp'>High opt-in data that provide marketers zero-in on their very best prospects</p>
                 
                 </div>
               </div>
@@ -240,7 +240,7 @@ const Automotive = () => {
                 </div>
                 <div className='details'>
                 {/* <p className="process-count">Step 5</p> */}
-                <p className='content'>Reach prospects without any geographical barriers 
+                <p className='content font-resp'>Reach prospects without any geographical barriers 
                   by associating with the best Mailing List Industry service</p>
                
                 </div>

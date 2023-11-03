@@ -79,59 +79,59 @@ subcontent={"  Galileo Data provides the most accurate and latest Education Emai
                 <div className='row pt-2'>
                       <div className='col-md-6'>
                         <ul className='single-list-inner style-check style-check mb-3'>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Public Secondary Schools Email List
                           </li>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Public Elementary Schools Email List
                           </li>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Public School Districts Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp"i>
                             <FaCheckCircle /> Christian Schools Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Catholic Schools Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> High/Senior High Schools Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Private Schools Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Religious Schools Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> School Administrators Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Private College Email List
                           </li>
                         
                         
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Medical Schools Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Vocational/Technical College Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Universities Email List
                           </li>
 
                           
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> K-12 Schools Email List
                           </li>
                           
@@ -139,59 +139,59 @@ subcontent={"  Galileo Data provides the most accurate and latest Education Emai
                       </div>
                       <div className='col-md-6'>
                         <ul className='single-list-inner style-check style-check mb-3'>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Non-Public Schools Email List
                           </li>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Elementary Schools Email List
                           </li>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Education Marketing Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Middle Schools Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Junior High Schools Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Senior High Schools Email List
                           </li>
 
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Charter Schools Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Colleges Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Public Colleges Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Dental Schools Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Nursing Schools Email List
                           </li>
 
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Aviation College Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Libraries Email List
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Teachers Email List
                           </li>
 
@@ -346,8 +346,8 @@ subcontent={"  Galileo Data provides the most accurate and latest Education Emai
 
           </div>
 
-          <p>We can help you craft and launch high-yielding campaigns with a targeted database across core segments. You can quickly identify major affiliates and partners in your TAM and access actionable intel to engage them directly.</p>
-          <p>Now stir up SQLs, optimize your marketing budget, and deploy disruptive digital tactics to grow ROIs favorably</p>
+          <p className="font-resp">We can help you craft and launch high-yielding campaigns with a targeted database across core segments. You can quickly identify major affiliates and partners in your TAM and access actionable intel to engage them directly.</p>
+          <p className="font-resp">Now stir up SQLs, optimize your marketing budget, and deploy disruptive digital tactics to grow ROIs favorably</p>
         </div>
       </div>
       {/* ==================== Work Process One end ====================*/}
@@ -368,21 +368,21 @@ subcontent={"  Galileo Data provides the most accurate and latest Education Emai
               
                       <div className='col-md-12 pt-5'>
                         <ul className='single-list-inner style-check style-check mb-3'>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Better capturing, analyzing, understanding, and leveraging of audience data to optimize marketing ROIs
                           </li>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Ineffective campaigns due to limited marketing resources and spend allocation
                           </li>
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Coordinating between different departments and stakeholders to align priorities and marketing objectives
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> low brand penetration across the digital channels due to lagging technology infrastructure
                           </li>
 
-                          <li>
+                          <li className="font-resp">
                             <FaCheckCircle /> Differentiating brand offerings and messages from competitors amid the steep industry competition
                           </li>
 

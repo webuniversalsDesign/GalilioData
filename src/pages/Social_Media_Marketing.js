@@ -64,14 +64,14 @@ const Social_Media_Marketing = () => {
 
                
 
-                    <p className='content mb-4 mb-xl-5'>
+                    <p className='content mb-4 mb-xl-5 font-resp'>
                     Our Approach We use the number of SEO/SEM and SMM techniques to assist you to build
                      a strong and unparalleled reputation online. We examine your target audience, marketing objectives,
                       exclusive selling points, and offline uniqueness to offer a consistent message to target audiences
                        across online media. Our team injects positive content about your business on different search engines,
                         blogs, online media, social networking websites and forums</p>
 
-                      <p className="content mb-4">
+                      <p className="content mb-4 font-resp">
                       We will discuss with you and offer information on how you can get the most out of your social media pages. 
                       Tell us about your business and we will design a social media plan that will reach your target audience and improve online engagement.
                       </p>
