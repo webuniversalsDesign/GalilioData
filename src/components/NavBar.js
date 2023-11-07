@@ -115,60 +115,60 @@ useEffect(() => {
           >
             <ul className='navbar-nav menu-open text-lg-end'>
             <li><Link to='/'>Home</Link></li>
-            <li><Link to='/about' >About Us</Link></li>
+            <li><Link to='/about-us/' >About Us</Link></li>
  <li className='menu-item-has-children'>
                 <a href='#'>Our Data</a>
                 <ul className='sub-menu'>
                 <li>
-                    <Link to='/Automotive'>Automotive</Link>
+                    <Link to='/automobile-automotive-email-list/'>Automotive</Link>
                   </li>
                   <li>
-                    <Link to='/Banking_And_Financial'>Banking And Financial</Link>
+                    <Link to='/banking-and-financial-email-list/'>Banking And Financial</Link>
                   </li>
                   <li>
-                    <Link to='/Biotech_And_Pharmaceutical'>Biotech And Pharmaceutical</Link>
+                    <Link to='/biotech-pharmaceutical-email-list/'>Biotech And Pharmaceutical</Link>
                   </li>
                   <li>
-                    <Link to='/Construction_Industry'>Construction Industry</Link>
+                    <Link to='/construction-industry-email-list/'>Construction Industry</Link>
                   </li>
                   <li>
-                    <Link to='/Education'>Education</Link>
-                  </li>
-
-                  <li>
-                    <Link to='/Hospitality'>Hospitality</Link>
+                    <Link to='/education-email-list/'>Education</Link>
                   </li>
 
                   <li>
-                    <Link to='/Information_Technology'>Information Technology</Link>
+                    <Link to='/hospitality-email-list/'>Hospitality</Link>
                   </li>
 
                   <li>
-                    <Link to='/Logistic_and_Distribution'>Logistic and Distribution</Link>
+                    <Link to='/information-technology-email-list/'>Information Technology</Link>
                   </li>
 
                   <li>
-                    <Link to='/Manufacturing'>Manufacturing</Link>
+                    <Link to='/logistic-and-distribution-email-list/'>Logistic and Distribution</Link>
                   </li>
 
                   <li>
-                    <Link to='/Retail'>Retail</Link>
+                    <Link to='/manufacturing-email-list/'>Manufacturing</Link>
+                  </li>
+
+                  <li>
+                    <Link to='/retail-email-list/'>Retail</Link>
                   </li>
                   
                   <li>
-                    <Link to='/Real_Estate'>Real Estate</Link>
+                    <Link to='/real-estate-email-list/'>Real Estate</Link>
                   </li>
 
                   <li>
-                    <Link to='/Telecommunication_Company'>Telecommunication Company</Link>
+                    <Link to='/telecommunication-company-email-list/'>Telecommunication Company</Link>
                   </li>
 
                   <li>
-                    <Link to='/Travel_and_Tourism'>Travel and Tourism</Link>
+                    <Link to='/travel-and-tourism-email-list/'>Travel and Tourism</Link>
                   </li>
 
                   <li>
-                    <Link to='/Utility_And_Energy'>Utility And Energy</Link>
+                    <Link to='/utility-energy-email-list/'>Utility And Energy</Link>
                   </li>
                 </ul>
               </li>
@@ -178,23 +178,23 @@ useEffect(() => {
                 <a href='#'>Data Solutions</a>
                 <ul className='sub-menu'>
                   <li>
-                    <Link to='/Data_Cleaning'>Data Cleaning</Link>
+                    <Link to='/data-cleansing/'>Data Cleansing</Link>
                   </li>
 
                   <li>
-                    <Link to='/Data_Appending'>Data Appending</Link>
+                    <Link to='/data-appending/'>Data Appending</Link>
                   </li>
 
                   <li>
-                    <Link to='/Data_Segmentation'>Data Segmentation</Link>
+                    <Link to='/data-segmentation/'>Data Segmentation</Link>
                   </li>
 
                   <li>
-                    <Link to='/Data_Verification'>Data Verifiction</Link>
+                    <Link to='/data-verification/'>Data Verifiction</Link>
                   </li>
 
                   <li>
-                    <Link to='/Reverse_Appending'>Reverse Appending</Link>
+                    <Link to='/reverse-appending/'>Reverse Appending</Link>
                   </li>
 
                   
@@ -204,16 +204,16 @@ useEffect(() => {
                 <a href='#'>Digital Marketing</a>
                 <ul className='sub-menu'>
                   <li>
-                    <Link to='/Social_Media_Marketing'>Social Media Marketing</Link>
+                    <Link to='/social-media-marketing/'>Social Media Marketing</Link>
                   </li>
                   <li>
-                    <Link to='/Web_Design'>Web Design</Link>
+                    <Link to='/web-design/'>Web Design</Link>
                   </li>
               
                 </ul> 
               </li>
               <li className='menu-item-has-children'>
-                <Link to="/GDRP_Complaint">GDPR</Link>
+                <Link to="/gdpr-compliant/">GDPR</Link>
                <ul className='sub-menu'>
                   
                   <li>
@@ -222,7 +222,7 @@ useEffect(() => {
                 </ul> 
               </li>
               <li>
-                <Link to='/contact'>Contact Us</Link>
+                <Link to='/contact-us'>Contact Us</Link>
               </li>
             </ul>
           </div>

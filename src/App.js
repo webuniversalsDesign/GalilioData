@@ -33,6 +33,7 @@ import Footer_GDRP from "./components/Footer_GDRP";
 import Email_Appending from "./pages/Email_Appending";
 import TermsCondition from "./pages/TermsCondition";
 import PrivacyPolicy from "./components/PrivacyPolicy";
+import Preloader from "./components/Preloader";
 
 function App() {
   useEffect(() => {
@@ -43,37 +44,40 @@ function App() {
     });
     AOS.refresh();
   }, []);
+
+
+
   return (
     <BrowserRouter>
       <Routes>
         <Route exact path='/' element={<HomeFive />} />
-        <Route exact path='/about' element={<About />} />
-        <Route exact path='/contact' element={<Contact />} />
-        <Route exact path='/Automotive' element={<Automotive />} />
-        <Route exact path='/Banking_And_Financial' element={<Banking_And_Financial />} />
-        <Route exact path='/Biotech_And_Pharmaceutical' element={<Biotech_And_Pharmaceutical />} />
-        <Route exact path='/Construction_Industry' element={<Construction_Industry />} />
-        <Route exact path='/Education' element={<Education />} />
-        <Route exact path='/Hospitality' element={<Hospitality />} />
-        <Route exact path='/Information_Technology' element={<Information_Technology />} />
-        <Route exact path='/Logistic_and_Distribution' element={<Logistic_and_Distribution />} />
-        <Route exact path='/Manufacturing' element={<Manufacturing />} />
-        <Route exact path='/Retail' element={<Retail />} />
-        <Route exact path='/Real_Estate' element={<Real_Estate />} />
-        <Route exact path='/Telecommunication_Company' element={<Telecommunication_Company />} />
-        <Route exact path='/Travel_and_Tourism' element={<Travel_and_Tourism />} />
-        <Route exact path='/Utility_And_Energy' element={<Utility_And_Energy />} />
-        <Route exact path='/Data_Cleaning' element={<Data_Cleaning />} />
-        <Route exact path='/Data_Appending' element={<Data_Appending />} />
-        <Route exact path='/Data_Segmentation' element={<Data_Segmentation />} />
-        <Route exact path='/Data_Verification' element={<Data_Verification />} />
-        <Route exact path='/Reverse_Appending' element={<Reverse_Appending />} />
-        <Route exact path='/Social_Media_Marketing' element={<Social_Media_Marketing />} />
-        <Route exact path='/Web_Design' element={<Web_Design />} />
+        <Route exact path='/about-us/' element={<About />} />
+        <Route exact path='/contact-us' element={<Contact />} />
+        <Route exact path='/automobile-automotive-email-list/' element={<Automotive />} />
+        <Route exact path='/banking-and-financial-email-list/' element={<Banking_And_Financial />} />
+        <Route exact path='/biotech-pharmaceutical-email-list/' element={<Biotech_And_Pharmaceutical />} />
+        <Route exact path='/construction-industry-email-list/' element={<Construction_Industry />} />
+        <Route exact path='/education-email-list/' element={<Education />} />
+        <Route exact path='/hospitality-email-list/' element={<Hospitality />} />
+        <Route exact path='/information-technology-email-list/' element={<Information_Technology />} />
+        <Route exact path='/logistic-and-distribution-email-list/' element={<Logistic_and_Distribution />} />
+        <Route exact path='/manufacturing-email-list/' element={<Manufacturing />} />
+        <Route exact path='/retail-email-list/' element={<Retail />} />
+        <Route exact path='/real-estate-email-list/' element={<Real_Estate />} />
+        <Route exact path='/telecommunication-company-email-list/' element={<Telecommunication_Company />} />
+        <Route exact path='/travel-and-tourism-email-list/' element={<Travel_and_Tourism />} />
+        <Route exact path='/utility-energy-email-list/' element={<Utility_And_Energy />} />
+        <Route exact path='/data-cleansing/' element={<Data_Cleaning />} />
+        <Route exact path='/data-appending/' element={<Data_Appending />} />
+        <Route exact path='/data-segmentation/' element={<Data_Segmentation />} />
+        <Route exact path='/data-verification/' element={<Data_Verification />} />
+        <Route exact path='/reverse-appending/' element={<Reverse_Appending />} />
+        <Route exact path='/social-media-marketing/' element={<Social_Media_Marketing />} />
+        <Route exact path='/web-design/' element={<Web_Design />} />
         <Route exact path='/RDPSC' element={<RDPSC />} />
-        <Route exact path='/GDRP_Complaint' element={<GDRP_Complaint />} />
+        <Route exact path='/gdpr-compliant/' element={<GDRP_Complaint />} />
         <Route exact path='/Footer_GDRP' element={<Footer_GDRP />} />
-        <Route exact path='/Email_Appending' element={<Email_Appending />} />
+        <Route exact path='/email-appending-services/' element={<Email_Appending />} />
         <Route exact path='/TermsCondition' element={<TermsCondition />} />
         <Route exact path='/PrivacyPolicy' element={<PrivacyPolicy />} />
         

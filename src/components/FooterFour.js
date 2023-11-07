@@ -15,7 +15,7 @@ import { Link } from "react-router-dom";
 import ourCompl from '../img/symbols/our-commplance.jpg'
 
 import logo from '../../src/img/logo/galileodata-white-logo.png';
-
+import callIcon from '../img/icons/40.svg';
 
 const FooterFour = () => {
   return (
@@ -30,7 +30,7 @@ const FooterFour = () => {
             <div className='footer-subscribe-inner box-shadow style-2 bg-white p-0 bg-cover'>
              <a href="tel:+1 646-461-2757"> <div className='media bg-base-2'>
                 <div className='media-left me-3 align-self-xl-center'>
-                  <img src='assets/img/icon/40.svg' alt='img' />
+                  <img src={callIcon} alt='img' />
                 </div>
               <div className='media-body'>
                   <h6 className='text-white'>+1 646-461-2757</h6>
@@ -96,17 +96,17 @@ const FooterFour = () => {
                     </Link>
                   </li>
                   <li className='sky font-resp'>
-                    <Link to='/About'>
+                    <Link to='/about-us'>
                       <FaChevronRight /> About Us
                     </Link>
                   </li>
                   <li className='sky font-resp'>
-                    <Link to='/GDRP_Complaint'>
+                    <Link to='/gdpr-compliant/'>
                       <FaChevronRight /> GDRP - Complaint
                     </Link>
                   </li>
                   <li className='sky font-resp'>
-                    <Link to='/contact'>
+                    <Link to='/contact-us'>
                       <FaChevronRight /> Contact Us
                     </Link>
                   </li>
@@ -118,12 +118,12 @@ const FooterFour = () => {
                 <h4 className='widget-title'>Digital Marketing</h4>
                 <ul>
                   <li className='sky font-resp'>
-                    <Link to='/Social_Media_Marketing'>
+                    <Link to='/social-media-marketing/'>
                       <FaChevronRight /> Social Media Marketing
                     </Link>
                   </li>
                   <li className='sky font-resp'>
-                    <Link to='/Web_Design'>
+                    <Link to='/web-design/'>
                       <FaChevronRight /> Web Design
                     </Link>
                   </li>
@@ -131,29 +131,29 @@ const FooterFour = () => {
                       Data Solution
                   </li>
                   <li className='sky font-resp'>
-                    <Link to='/Data_Cleaning'>
+                    <Link to='/data-cleansing/'>
                       <FaChevronRight /> Data Cleansing
                     </Link>
                   </li>
                   <li className='sky font-resp'>
-                    <Link to='/Data_Appending'>
+                    <Link to='/data-appending/'>
                       <FaChevronRight /> Data Appending
                     </Link>
                   </li>
                   <li className='sky font-resp'>
-                    <Link to='/Data_Segmentation'>
+                    <Link to='/data-segmentation/'>
                       <FaChevronRight /> Data Segmentation
                     </Link>
                   </li>
 
                   <li className='sky font-resp'>
-                    <Link to='/Data_Verification'>
+                    <Link to='/data-verification/'>
                       <FaChevronRight /> Data Verification
                     </Link>
                   </li>
 
                   <li className='sky font-resp'>
-                    <Link to='/Reverse_Appending'>
+                    <Link to='/reverse-appending/'>
                       <FaChevronRight /> Reverse Appending
                     </Link>
                   </li>
@@ -166,7 +166,7 @@ const FooterFour = () => {
                 <ul className='details text-white'>
                     <li className="font-resp">
                       <FaMapMarkerAlt className='sky' /> &nbsp; &nbsp; 2150 SOUTH, 1300 EAST , 500 PMB #1771,
-SALT LAKE, UT 84106 UNITED STATES
+SALT LAKE CITY, UT 84106 UNITED STATES
                     </li>
                     <li className='mt-3 font-resp'>
                      <a href="tel:+1 646 461 2757"><FaPhoneAlt className='sky' /> &nbsp; &nbsp; 646-461-2757</a> 
@@ -176,7 +176,7 @@ SALT LAKE, UT 84106 UNITED STATES
                     </li>
 
                     <li className='sky' style={{fontWeight:"600", fontSize:"20px"}}>
-                    Our Compliance
+                    Our Data is in Compliance:
 
                     <img src={ourCompl} alt="" className="footer-icon"/>
                   </li>

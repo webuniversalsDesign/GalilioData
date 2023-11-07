@@ -21,7 +21,7 @@ const Breadcrumb = ({ title, subcontent }) => {
                 </ul>
                 <br/>
                 
-                <h2 className='page-title'>{title}</h2>
+                <h1 className='page-title'>{title}</h1>
                 <p className="font-resp" style={{textAlign:"justify"}}>  {subcontent}  </p>
               </div>
               {/* <div className='col-lg-5 text-lg-end'>

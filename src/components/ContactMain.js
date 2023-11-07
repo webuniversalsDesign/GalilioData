@@ -152,8 +152,9 @@ const ContactMain = () => {
 </div>
 
           <div className='contact-page-inner-2 bg-gray'>
+          <div className="white-overay"/>
             <div className='section-title mb-4 pb-2'>
-            <h2 className="text-center pb-3">Our Data, Your Prospects</h2>
+            <h2 className="text-center pb-3" style={{color:"#ee7e19"}}>Our Data, Your Prospects.</h2>
               <h3 className='title'>Get in Touch</h3>
               <p className='content mb-0'>
               Contact our data experts now or call +1 646-461-2757

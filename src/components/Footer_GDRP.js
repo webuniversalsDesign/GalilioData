@@ -98,40 +98,40 @@ const Footer_GDRP = () => {
                 <h4 className='widget-title'>Industrial List</h4>
                 <ul>
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Automotive'>
+                    <Link to='/automobile-automotive-email-list/'>
                       <FaChevronRight /> Automotive Email List
                     </Link>
                   </li>
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Banking_And_Financial'>
+                    <Link to='/banking-and-financial-email-list/'>
                       <FaChevronRight /> Banking & Financial Email List
                     </Link>
                   </li>
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Biotech_And_Pharmaceutical'>
+                    <Link to='/biotech-pharmaceutical-email-list/'>
                       <FaChevronRight /> Biotech & Pharmaceutical Email List
                     </Link>
                   </li>
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Construction_Industry'>
+                    <Link to='/construction-industry-email-list/'>
                       <FaChevronRight /> Construction Industry Email List
                     </Link>
                   </li>
 
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Education'>
+                    <Link to='/education-email-list/'>
                       <FaChevronRight /> Education Email List
                     </Link>
                   </li>
 
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Hospitality'>
+                    <Link to='/hospitality-email-list/'>
                       <FaChevronRight /> Hospitality Email List
                     </Link>
                   </li>
 
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Information_Technology'>
+                    <Link to='/information-technology-email-list/'>
                       <FaChevronRight /> Information Technology Email List
                     </Link>
                   </li>
@@ -144,34 +144,34 @@ const Footer_GDRP = () => {
                 <h4 className='widget-title'>Industrial List</h4>
                 <ul>
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Logistic_and_Distribution'>
+                    <Link to='/logistic-and-distribution-email-list/'>
                       <FaChevronRight /> Logistic & Distribution Email List
                     </Link>
                   </li>
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Manufacturing'>
+                    <Link to='/manufacturing-email-list/'>
                       <FaChevronRight /> Manufacturing Email List
                     </Link>
                   </li>
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Retail'>
+                    <Link to='/retail-email-list/'>
                       <FaChevronRight />Retail Email List
                     </Link>
                   </li>
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Telecommunication_Company'>
+                    <Link to='/telecommunication-company-email-list/'>
                       <FaChevronRight /> TeleCom Email List
                     </Link>
                   </li>
 
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Travel_and_Tourism'>
+                    <Link to='/travel-and-tourism-email-list/'>
                       <FaChevronRight /> Travel & Tourism Email List
                     </Link>
                   </li>
 
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Utility_And_Energy'>
+                    <Link to='/utility-energy-email-list/'>
                       <FaChevronRight />Utility & Energy Email List
                     </Link>
                   </li>
@@ -186,28 +186,28 @@ const Footer_GDRP = () => {
                 <h4 className='widget-title'>Data Solutions</h4>
                 <ul>
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Data_Cleaning'>
+                    <Link to='/data-cleansing/'>
                       <FaChevronRight /> Data Cleansing
                     </Link>
                   </li>
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Data_Appending'>
+                    <Link to='/data-appending/'>
                       <FaChevronRight /> Data Appending
                     </Link>
                   </li>
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Data_Segmentation'>
+                    <Link to='/data-segmentation/'>
                       <FaChevronRight /> Data Segmentation  
                     </Link>
                   </li>
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Data_Verification'>
+                    <Link to='/data-verification/'>
                       <FaChevronRight /> Data Verification
                     </Link>
                   </li>
 
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/contReverse_Appendingact'>
+                    <Link to='/reverse-appending/'>
                       <FaChevronRight /> Reverse Appending
                     </Link>
                   </li>
@@ -217,13 +217,13 @@ const Footer_GDRP = () => {
                   </li>
                
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Social_Media_Marketing'>
+                    <Link to='/social-media-marketing/'>
                       <FaChevronRight /> Social Media Marketing
                     </Link>
                   </li>
 
                   <li className='sky' style={{fontSize:"13px", fontWeight:"300"}}>
-                    <Link to='/Web_Design'>
+                    <Link to='web-design/'>
                       <FaChevronRight /> Web Design
                     </Link>
                   </li>
@@ -262,9 +262,9 @@ SALT LAKE, UT 84106 UNITED STATES
                 <p>Copyright © 2023 Galileo Data Inc. All rights reserved.</p>
               </div>
               <div className='col-md-6 text-lg-end'>
-                <a href='#'>Trams &amp; Condition</a>
-                <a href='#'>Privacy Policy</a>
-                <a href='#'>Contact Us</a>
+              <Link to='/TermsCondition' className="font-resp">Terms &amp; Condition</Link>
+                <Link to='/PrivacyPolicy' className="font-resp">Privacy Policy</Link>
+                <Link to='/Contact' className="font-resp">Contact Us</Link>
               </div>
             </div>
           </div>

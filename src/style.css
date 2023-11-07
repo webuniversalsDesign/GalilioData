@@ -21,6 +21,13 @@ padding: 30px;
         background-color: black;
     }
 
+    .autotype-text{
+        position: relative;
+        margin: 0px;
+        top: 0px;
+        transform: translateY(0px);
+    }
+
     .vidoe-banner{
         position: relative;
     width: 100%;
@@ -55,6 +62,13 @@ padding: 30px;
     .con-card h3{
 color: #D75A5A;
 
+}
+
+.autotype-text{
+    position: absolute;
+    margin: 0px;
+    top: 10px;
+    transform: translateY(-30px);
 }
 
 .contact-page-inner-2{
@@ -100,6 +114,13 @@ color: white;
 
     }
 
+    .autotype-text{
+        position: absolute;
+        margin: 0px;
+        top: 30px;
+        transform: translateY(-30px);
+    }
+
 .contact-inner-card{
 height: 105px;
 }
@@ -141,7 +162,7 @@ height: 105px;
 
 .com-logo{
     width:80%;
-    height:200px;
+    height:150px;
 }
 
 .breadcrumb-area .page-title {
@@ -411,8 +432,71 @@ margin-top: 10px;
 
 .auto-type{
     color: #ee7e19 !important;
+    letter-spacing: 1px;
 }
 
 .typed-cursor {
     color: #da751b !important;
+}
+
+.font-resp{
+    text-align: justify;
+}
+
+
+
+/* pre-loader */
+
+.preloader{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    background-color: #101a29;
+    animation: opacit 2s infinite linear;
+    transition: all 0.3s ease-in-out;
+    display: flex;
+
+}
+/* 
+   @keyframes opacit {
+    0% {opacity: 1;}
+     100% {opacity: 0;}
+   } */
+
+.preloader-icon{
+    background-image: url('./img/logo/galileofavicon.png');
+    height: 70px;
+    width: 70px;
+    background-repeat: no-repeat;
+background-size: contain;
+
+    animation: rotate 1.5s infinite linear;
+}
+
+@keyframes rotate {
+    0% {transform: rotate(180deg);}
+     100% {transform: rotate(-180deg);}
+   }
+
+.preloader-letters{
+    background-image: url('./img/logo/preloaderfavicon.png');
+width: 150px;
+background-repeat: no-repeat;
+background-size: contain;
+height: 30px;
+
+}
+
+.preloader-align{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+}
+
+
+.bg-blue{
+    background-image: url('./img/5.png');
 }

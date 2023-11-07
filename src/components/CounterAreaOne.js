@@ -7,11 +7,10 @@ const CounterAreaOne = () => {
     <>
       {/* counter area start */}
       <div
-        className='counter-area bg-relative bg-cover pt-5 pd-bottom-100'
-        style={{ backgroundImage: 'url("./assets/img/bg/5.png")' }}
+        className='counter-area bg-relative bg-cover pt-5 pb-3 bg-blue'
       >
         <div className='container '>
-        <h3 className="text-center text-white pb-5">Search Specific Email Contacts With High Quality B2B Sales Leads</h3>
+        <h3 className="text-center text-white pb-2">Search Specific Email Contacts With High Quality B2B Sales Leads</h3>
           <div className='row'>
             <div
               className='col-lg-3 col-sm-6'

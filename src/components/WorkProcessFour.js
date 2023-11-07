@@ -26,7 +26,7 @@ const WorkProcessFour = () => {
           <div className='row'>
 
             <div className='col-xl-4 col-md-6'>
-            <Link to="/Data_Cleaning">
+            <Link to="/data-cleansing/">
 <div className='single-work-process-inner-5'>
                 <div className='thumb mb-3'>
                 <MdOutlineCleaningServices className="inner-card-icon"/>
@@ -43,7 +43,7 @@ const WorkProcessFour = () => {
             </div>
 
             <div className='col-xl-4 col-md-6'>
-            <Link to="/Data_Appending">
+            <Link to="/data-appending/">
 <div className='single-work-process-inner-5'>
                 <div className='thumb mb-3'>
                 <TbDatabasePlus className="inner-card-icon"/>
@@ -60,7 +60,7 @@ const WorkProcessFour = () => {
             </div>
 
             <div className='col-xl-4 col-md-6'>
-            <Link to="/Data_Segmentation">
+            <Link to="/data-segmentation/">
 <div className='single-work-process-inner-5'>
                 <div className='thumb mb-3'>
                 <BiPieChart className="inner-card-icon"/>
@@ -77,7 +77,7 @@ const WorkProcessFour = () => {
             </div>
 
             <div className='col-xl-4 col-md-6'>
-            <Link to="/Data_Verification">
+            <Link to="/data-verification/">
 <div className='single-work-process-inner-5'>
                 <div className='thumb mb-3'>
                 <BsDatabaseCheck className="inner-card-icon"/>
@@ -94,7 +94,7 @@ const WorkProcessFour = () => {
             </div>
 
             <div className='col-xl-4 col-md-6'>
-            <Link to="/Email_Appending">
+            <Link to="/email-appending-services/">
 <div className='single-work-process-inner-5'>
                 <div className='thumb mb-3'>
                 <AiOutlineMail className="inner-card-icon"/>
@@ -111,7 +111,7 @@ const WorkProcessFour = () => {
             </div>
 
             <div className='col-xl-4 col-md-6'>
-            <Link to="/Reverse_Appending">
+            <Link to="/reverse-appending/">
 <div className='single-work-process-inner-5'>
                 <div className='thumb mb-3'>
                 <GiRecycle className="inner-card-icon"/>
@@ -152,7 +152,7 @@ const WorkProcessFour = () => {
             <div className='row'>
 
               <div className='col-lg-3 col-md-6'>
-              <Link to="/Automotive">
+              <Link to="/automobile-automotive-email-list/">
                 <div className='single-work-process-inner style-2 text-center'>
                   <img
                     className='line-img'
@@ -174,7 +174,7 @@ const WorkProcessFour = () => {
               </div>
 
               <div className='col-lg-3 col-md-6'>
-              <Link to="/Banking_And_Financial">
+              <Link to="/banking-and-financial-email-list/">
                 <div className='single-work-process-inner style-2 text-center'>
                   <img
                     className='line-img'
@@ -196,7 +196,7 @@ const WorkProcessFour = () => {
               </div>
 
               <div className='col-lg-3 col-md-6'>
-              <Link to="/Biotech_And_Pharmaceutical">
+              <Link to="/biotech-pharmaceutical-email-list/">
   <div className='single-work-process-inner style-2 text-center'>
                   <img
                     className='line-img'
@@ -219,7 +219,7 @@ const WorkProcessFour = () => {
               </div>
 
               <div className='col-lg-3 col-md-6'>
-              <Link to="/Construction_Industry">
+              <Link to="/construction-industry-email-list/">
                     <div className='single-work-process-inner style-2 text-center'>
                 <img
                     className='line-img'
@@ -242,7 +242,7 @@ const WorkProcessFour = () => {
               </div>
 
               <div className='col-lg-3 col-md-6'>
-              <Link to="/Education">
+              <Link to="/education-email-list/">
                   <div className='single-work-process-inner style-2 text-center'>
                 <img
                     className='line-img'
@@ -267,7 +267,7 @@ const WorkProcessFour = () => {
 
 
               <div className='col-lg-3 col-md-6'>
-              <Link to="/Hospitality">
+              <Link to="/hospitality-email-list/">
                 <div className='single-work-process-inner style-2 text-center'>
                 <img
                     className='line-img'
@@ -290,7 +290,7 @@ const WorkProcessFour = () => {
               </div>
 
               <div className='col-lg-3 col-md-6'>
-              <Link to="/Information_Technology">
+              <Link to="/information-technology-email-list/">
                    <div className='single-work-process-inner style-2 text-center'>
                 <img
                     className='line-img'
@@ -313,7 +313,7 @@ const WorkProcessFour = () => {
               </div>
 
               <div className='col-lg-3 col-md-6'>
-              <Link to="/Logistic_and_Distribution">
+              <Link to="/logistic-and-distribution-email-list/">
    <div className='single-work-process-inner style-2 text-center'>
                 <img
                     className='line-img'
@@ -335,7 +335,7 @@ const WorkProcessFour = () => {
               </div>
 
               <div className='col-lg-3 col-md-6'>
-              <Link to="/Real_Estate">
+              <Link to="/real-estate-email-list/">
                      <div className='single-work-process-inner style-2 text-center'>
                 <img
                     className='line-img'
@@ -358,7 +358,7 @@ const WorkProcessFour = () => {
               </div>
 
               <div className='col-lg-3 col-md-6'>
-              <Link to="/Retail">
+              <Link to="/retail-email-list/">
                        <div className='single-work-process-inner style-2 text-center'>
                 <img
                     className='line-img'
@@ -380,30 +380,10 @@ const WorkProcessFour = () => {
          
               </div>
 
-              <div className='col-lg-3 col-md-6'>
-              <Link to="/">
-                   <div className='single-work-process-inner style-2 text-center'>
-                <img
-                    className='line-img'
-                    src='assets/img/about/30.png'
-                    alt='img'
-                  />
-                  <div className='thumb mb-3'>
-                  <IoBusOutline className="card-inner-icon"/>
-
-                  </div>
-                  <div className='details'>
-                    <h5 className='mb-3'>Transport & Logistic</h5>
-                    <p className='content'>
-                    </p>
-                  </div>
-                </div>
-              </Link>
-             
-              </div>
+           
 
               <div className='col-lg-3 col-md-6'>
-              <Link to="/Travel_and_Tourism">
+              <Link to="/travel-and-tourism-email-list/">
                 <div className='single-work-process-inner style-2 text-center'>
                 <img
                     className='line-img'
@@ -425,7 +405,7 @@ const WorkProcessFour = () => {
               </div>
 
               <div className='col-lg-3 col-md-6'>
-              <Link to="/Telecommunication_Company">
+              <Link to="/telecommunication-company-email-list/">
                   <div className='single-work-process-inner style-2 text-center'>
                 <img
                     className='line-img'
@@ -448,7 +428,7 @@ const WorkProcessFour = () => {
               </div>
 
               <div className='col-lg-3 col-md-6'>
-              <Link to="/Utility_And_Energy ">
+              <Link to="/utility-energy-email-list/">
                  <div className='single-work-process-inner style-2 text-center'>
                 <img
                     className='line-img'
@@ -469,28 +449,6 @@ const WorkProcessFour = () => {
                 </div>
               </Link>
                
-              </div>
-
-              <div className='col-lg-3 col-md-6'>
-              <Link to="/">
-                   <div className='single-work-process-inner style-2 text-center'>
-                <img
-                    className='line-img'
-                    src='assets/img/about/30.png'
-                    alt='img'
-                  />
-                  <div className='thumb mb-3'>
-                  <AiOutlineDatabase className="card-inner-icon"/>
-
-                  </div>
-                  <div className='details'>
-                    <h5 className='mb-3'>Custom</h5>
-                    <p className='content'>
-                    </p>
-                  </div>
-                </div>
-              </Link>
-             
               </div>
 
             </div>

@@ -39,8 +39,19 @@ const BannerFive = () => {
         style={{ backgroundImage: 'url("./assets/img/banner-5/5.png")' }}
       >
         <div className='container'>
+        <div className="banner-inner">
+           <h2
+                  className='title text-white autotype-text'
+                  data-aos='fade-right'
+                  data-aos-delay='250'
+                  data-aos-duration='1500'
+                
+                >
+                 Grow Your   <span ref={el} className="auto-type"/> </h2>
+        </div>
+       
           <div className='row'>
-            <div className='col-lg-8 pb-xl-5 align-self-center'>
+            <div className='col-lg-6 pb-xl-5 align-self-center'>
               <div className='banner-inner pe-xl-4 pb-5'>
           
               {/* <Swiper
@@ -104,20 +115,21 @@ const BannerFive = () => {
    
       </Swiper> */}
 
-                <h2
+                {/* <h2
                   className='title text-white'
                   data-aos='fade-right'
                   data-aos-delay='250'
                   data-aos-duration='1500'
                 >
-                 Grow Your   <span ref={el} className="auto-type"/> </h2>
+                 Grow Your   <span ref={el} className="auto-type"/> </h2> */}
                 <p
                   className='content pe-xl-4'
                   data-aos='fade-right'
                   data-aos-delay='350'
                   data-aos-duration='1500'
+                  style={{color:"white"}}
                 >
-                Make your business take flight with “Galileo Data” Unleash your marketing desire with us. Identify new clients & boost profits.​
+                Make your business take flight with “Galileo Data” <br/>Unleash your marketing desire with us. Identify new clients & boost profits.​
                 </p>
                 <Link
                   className='btn btn-border-base-2'
@@ -155,8 +167,8 @@ const BannerFive = () => {
                 /> */}
               </div>
             </div>
-            <div className='col-lg-4 col-md-9 align-self-end'>
-              <div className='banner-thumb-2 mt-4 mt-lg-0'>
+            <div className='col-lg-6 col-md-9 align-self-end'>
+              <div className='banner-thumb-2 mt-lg-0'>
                 <div className='main-img-wrap'>
                   <img
                     className='banner-animate-img banner-animate-img-1 left_image_bounce'
@@ -170,7 +182,7 @@ const BannerFive = () => {
                   />
                   <div>
                     <img
-                      className='main-img'
+                      className='main-img '
                       src={banner}
                       alt='img'
                     />

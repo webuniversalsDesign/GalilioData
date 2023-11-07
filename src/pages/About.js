@@ -4,7 +4,7 @@ import Breadcrumb from "../components/Breadcrumb";
 import ContactAreaOne from "../components/ContactAreaOne";
 import NavBar from "../components/NavBar";
 import commonly from "../img/Commonly Asked Questions-01.png";
-
+import touch from "../img/Get in touch Bringing Your Vision To Life-01.png";
 
 import {BsDatabaseLock, BsEnvelopePaper} from 'react-icons/bs';
 import {TbUserSearch, TbExchange} from  'react-icons/tb';
@@ -13,19 +13,69 @@ import {AiOutlineMail} from 'react-icons/ai';
 import {MdOutlineMarkEmailRead} from 'react-icons/md';
 import {RiPassValidLine} from 'react-icons/ri';
 import FooterFour from "../components/FooterFour";
-
+import { Link } from "react-router-dom";
+import { Helmet } from "react-helmet";
+import MainContact from "../components/MainContact";
 
 const About = () => {
   return (
     <>
+
+<Helmet>
+  
+  <title>About Us – Galileodata.us</title>
+  <meta name="description" content="GalileoData.us: Your data analytics partner, offering comprehensive solutions for informed decision-making and business growth. Trust us for a data-driven future."/>
+  {/* <meta name="keywords" content="about"/> */}
+  <link rel="canonical" href="https://galileodata.us/about-us/" />
+
+</Helmet>
+
       {/* Navigation Bar */}
       <NavBar />
 
       {/* Navigation Bar */}
-      <Breadcrumb
-       title={"About Galileo Data Inc"} 
-      subcontent={"We have seen the data market at its best, and worst. Irrespective of how tricky the situation is, our data-driven  approach is equipped to get you through and transform your investments into sales and marketing opportunities. We are not the only data-seller out there, but we stand out because of our quality. Our aim is to provide clean and extremely qualified contact lists. We work with ISPs and ESPs to keep our email databases up to date. Unlike our competitors, who may provide a complicated mailing list, we provide the actual data files, ready to be fed into your CRM software. We also guarantee a 95% deliverability rate with our contacts."} />
 
+<div
+        className='breadcrumb-area bg-cover'
+        style={{ backgroundImage: 'url("./assets/img/bg/7.png")' }}
+      >
+        <div className='container'>
+          <div className='breadcrumb-inner'>
+            <div className='row justify-content-center'>
+              <div className='col-lg-12'>
+              <ul className='page-list'>
+                  <li>
+                    <Link to='/'>Home</Link>
+                  </li>
+                  {"  "}/ <li>About</li>
+                </ul>
+                <br/>
+                
+                <h1 className='page-title'>About Galileo Data Inc</h1>
+                <p className="font-resp" style={{textAlign:"justify"}}>  We have seen the data market at its best, and worst. Irrespective of how tricky the situation 
+                is, our data-driven  approach is equipped to get you through and transform your investments into sales and marketing opportunities. We are not
+                 the only data-seller out there, but we stand out because of our quality. Our aim is to provide clean and extremely qualified contact lists.
+                  We work with ISPs and ESPs to keep our email databases up to date. Unlike our competitors, who may provide a complicated mailing list, we 
+                  provide the actual data files, ready to be fed into your CRM software. We also guarantee a 95% deliverability rate with our contacts.  </p>
+
+                  <ul>
+                    <li>Quickly generate highly targeted mailing lists</li>
+                    <li>Refine your audience based on hundreds of data points from location to income</li>
+                    <li>Ensure your message gets into the hands of your audience</li>
+                  </ul>
+              </div>
+              {/* <div className='col-lg-5 text-lg-end'>
+                <ul className='page-list'>
+                  <li>
+                    <Link to='/'>Home</Link>
+                  </li>
+                  {"  "}/ <li>{title}</li>
+                </ul>
+              </div> */}
+            </div>
+          </div>
+        </div>
+      </div>
       {/* About Area One */}
       <AboutAreaOne />
 
@@ -215,7 +265,7 @@ const About = () => {
 
       {/*==================== Faq area start ====================*/}
       <div
-        className='faq-area faq-area-margin-top bg-cover pd-top-120 pd-bottom-110'
+        className='faq-area faq-area-margin-top bg-cover pd-top-120 pb-5'
         style={{ backgroundImage: 'url("./assets/img/bg/3.png")' }}
       >
         <div className='container'>
@@ -489,7 +539,8 @@ const About = () => {
 
 
    {/* Contact Area One */}
-   <ContactAreaOne />
+   <MainContact conImg={touch}></MainContact>
+
 
       {/* Footer One */}
       <FooterFour />

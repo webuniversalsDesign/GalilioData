@@ -38,9 +38,9 @@ const AboutAreaFive = () => {
             >
               <div className='section-title mb-0 ps-xl-5'>
                 <h6 className='sub-title-sky-blue'>Why Galileo Data</h6>
-                <h2 className='title title_Update'>
-                Galileo Data Inc is a full-service data and marketing agency.
-                </h2>
+                <h1 className='title title_Update'>
+                High quality Leads at Market rates in the right amount​
+                </h1>
                 <p className='content mb-4 font-resp' style={{textAlign:"justify"}}>
                 We are a primary source of consumer and business data, identity data, and analytics for enterprises 
                 and the largest data providers in the world. We offer end-to-end custom data-driven marketing solutions 

@@ -2,6 +2,7 @@ import React from "react";
 import {BsDatabaseGear, BsPersonFillGear, BsDatabaseCheck} from "react-icons/bs";
 import {LiaIndustrySolid} from 'react-icons/lia'
 import marketing from "../img/Marketing-01.png"
+import Aboutani from "./Aboutani";
 const AboutAreaOne = () => {
   return (
     <>
@@ -10,33 +11,8 @@ const AboutAreaOne = () => {
         <div className='container'>
           <div className='row'>
             <div className='col-lg-6'>
-              <div
-                className='about-thumb-inner pe-xl-5 me-xl-5 '
-                data-aos='fade-right'
-                data-aos-delay='100'
-                data-aos-duration='1500'
-              >
-                <img
-                  className='animate-img-1 top_image_bounce'
-                  src='assets/img/about/2.png'
-                  alt='img'
-                />
-                <img
-                  className='animate-img-2 left_image_bounce'
-                  src='assets/img/about/3.png'
-                  alt='img'
-                />
-                <img
-                  className='animate-img-3 top_image_bounce'
-                  src='assets/img/banner/5.svg'
-                  alt='img'
-                />
-                <img
-                  className='main-img'
-                  src={marketing}
-                  alt='img'
-                />
-              </div>
+           
+              <Aboutani mainImg={marketing}></Aboutani>
             </div>
             <div
               className='col-lg-6 '

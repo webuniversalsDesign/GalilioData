@@ -4,10 +4,19 @@ import Breadcrumb from "../components/Breadcrumb";
 import NavBar from "../components/NavBar";
 
 import Footer_GDRP from "../components/Footer_GDRP";
+import { Helmet } from "react-helmet";
 
 const GDRP_Complaint = () => {
   return (
     <>
+      <Helmet>
+  
+  <title>GDPR-compliant – Galileodata.us</title>
+  <meta name="description" content="GalileoData.us upholds strict GDPR compliance standards to ensure data security and privacy in all our services, safeguarding sensitive information."/>
+  {/* <meta name="keywords" content="about"/> */}
+  <link rel="canonical" href="https://galileodata.us/gdpr-compliant/" />
+
+</Helmet>
       {/* Navigation Bar */}
       <NavBar />
 
